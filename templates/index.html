@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edu2Job Prediction</title>
+</head>
+<body>
+    <h2>Edu2Job: Career Prediction</h2>
+    <form action="/predict" method="post">
+        CGPA: <input type="text" name="cgpa" required><br>
+        Python: <select name="python"><option>Yes</option><option>No</option></select><br>
+        Machine Learning: <select name="ml"><option>Yes</option><option>No</option></select><br>
+        Communication: <select name="comm"><option value="2">High</option><option value="1">Medium</option><option value="0">Low</option></select><br>
+        Internship: <select name="internship"><option>Yes</option><option>No</option></select><br>
+        Projects Count: <input type="number" name="projects"><br>
+        Certifications: <input type="number" name="certs"><br>
+        <button type="submit">Predict Job Role</button>
+    </form>
+</body>
+</html>
