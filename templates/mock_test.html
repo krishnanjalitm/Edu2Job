@@ -1,0 +1,27 @@
+{% extends "base.html" %} {% block content %}
+<div class="container py-5">
+    <h2 class="fw-bold mb-4">Mock Tests</h2>
+    <p class="text-muted">Practice and track your performance</p>
+    
+    <div class="row g-4 mt-2">
+        <div class="col-md-4">
+            <div class="card p-4 shadow-sm border-0" style="border-radius: 20px;">
+                <h5 class="fw-bold">Java Mock Test</h5>
+                <p class="small text-primary"><i class="bi bi-book me-1"></i> Java</p>
+                <p class="small text-muted"><i class="bi bi-hourglass-split me-1"></i> 30 mins</p>
+                <a href="/test/java" class="btn btn-primary w-100 rounded-pill mt-3" style="background: #1a237e;">Start Test</a>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card p-4 shadow-sm border-0" style="border-radius: 20px;">
+                <h5 class="fw-bold">DSA Mock Test</h5>
+                <p class="small text-info"><i class="bi bi-code-slash me-1"></i> DSA</p>
+                <p class="small text-muted"><i class="bi bi-hourglass-split me-1"></i> 30 mins</p>
+                <a href="/test/dsa" class="btn btn-primary w-100 rounded-pill mt-3" style="background: #1a237e;">Start Test</a>
+            </div>
+        </div>
+        
+    </div>
+</div>
+{% endblock %}

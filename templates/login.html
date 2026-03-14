@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edu2Job | Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    
+    <style>
+        body {
+            /* പർപ്പിൾ ഗ്രേഡിയന്റ് ബാക്ക്ഗ്രൗണ്ട് */
+            background: linear-gradient(135deg, #e4c1f9 0%, #3a0ca3 100%);
+            font-family: 'Poppins', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .login-card {
+            background: rgba(255, 255, 255, 0.2); /* ഗ്ലാസ്സ് ഇഫക്റ്റിന് വേണ്ടിയുള്ള സുതാര്യത */
+            backdrop-filter: blur(15px);
+            border-radius: 30px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+            overflow: hidden;
+            width: 100%;
+            max-width: 800px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .image-section {
+            background: linear-gradient(180deg, #d3b3f8 0%, #1a0658 100%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            padding: 40px;
+            height: 100%;
+            text-align: center;
+        }
+
+        .form-section {
+            padding: 50px 40px;
+            color: white;
+        }
+
+        .login-title {
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 40px;
+        }
+
+        .form-control {
+            background: transparent;
+            border: none;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+            border-radius: 0;
+            color: white;
+            padding: 10px 10px 10px 35px; /* ഐക്കണിന് വേണ്ടിയുള്ള സ്ഥലം */
+            margin-bottom: 25px;
+        }
+
+        .form-control:focus {
+            background: transparent;
+            box-shadow: none;
+            border-bottom-color: white;
+            color: white;
+        }
+
+        .form-control::placeholder {
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .input-group {
+            position: relative;
+        }
+
+        .input-icon {
+            position: absolute;
+            left: 5px;
+            top: 12px;
+            color: rgba(255, 255, 255, 0.8);
+            z-index: 10;
+        }
+
+        .login-btn {
+            background: linear-gradient(135deg, #b794f4 0%, #7c3aed 100%);
+            color: white;
+            border: none;
+            padding: 12px;
+            border-radius: 50px;
+            font-weight: 600;
+            width: 100%;
+            margin-top: 20px;
+            transition: 0.3s;
+        }
+
+        .login-btn:hover {
+            transform: scale(1.02);
+            box-shadow: 0 5px 15px rgba(124, 58, 237, 0.4);
+        }
+
+        .register-link {
+            text-align: center;
+            margin-top: 25px;
+            font-size: 0.9rem;
+        }
+
+        .register-link a {
+            color: #d3b3f8;
+            text-decoration: none;
+            font-weight: 600;
+            border-bottom: 1px solid transparent;
+            transition: 0.3s;
+        }
+
+        .register-link a:hover {
+            border-bottom-color: #d3b3f8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="login-card">
+    <div class="row g-0 align-items-center">
+        <div class="col-md-5 d-none d-md-block">
+            <div class="image-section">
+                <i class="bi bi-shield-lock" style="font-size: 80px; margin-bottom: 20px;"></i>
+                <h4>Welcome Back!</h4>
+                <p class="opacity-75">Login to continue your career prediction journey.</p>
+            </div>
+        </div>
+
+        <div class="col-md-7 form-section">
+            <h2 class="login-title">Login</h2>
+            
+            <form action="/login_process" method="post">
+                <div class="input-group">
+                    <i class="bi bi-person input-icon"></i>
+                    <input type="text" name="username" class="form-control" placeholder="User Name" required>
+                </div>
+
+                <div class="input-group">
+                    <i class="bi bi-lock input-icon"></i>
+                    <input type="password" name="password" class="form-control" placeholder="Password" required>
+                </div>
+
+                <button type="submit" class="login-btn">Login</button>
+            </form>
+
+            <div class="register-link">
+                Don't have an account? <a href="/register">Register Here</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

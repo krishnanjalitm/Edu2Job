@@ -3,6 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edu2Job | Discover Your Future</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    
+    <style>
+        :root {
+            --primary-cute: #6c5ce7;
+            --secondary-cute: #a29bfe;
+            --accent-pink: #fd79a8;
+            --soft-bg: #f0f3ff;
+        }
+
+        body { 
+            font-family: 'Poppins', sans-serif; 
+            background-color: var(--soft-bg);
+            color: #2d3436;
+        }
+
+        h1, h2, .navbar-brand { font-family: 'Fredoka', sans-serif; }
+
+        /* Navbar Style */
+        .navbar { background: white; box-shadow: 0 4px 20px rgba(0,0,0,0.05); border-radius: 0 0 20px 20px; }
+        .nav-link { font-weight: 500; color: #636e72; }
+        .btn-login { background: var(--primary-cute); color: white; border-radius: 12px; padding: 8px 25px; transition: 0.3s; border: none; }
+        .btn-login:hover { background: #5849c4; transform: scale(1.05); color: white; }
+
+        /* Hero Section */
+        .hero { padding: 80px 0; background: linear-gradient(180deg, #fff 0%, var(--soft-bg) 100%); }
+        .hero-img { width: 100%; max-width: 500px; animation: float 3s ease-in-out infinite; }
+        @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-20px); } 100% { transform: translateY(0px); } }
+
+        /* Prediction Card */
+        .prediction-box {
+            background: white; border-radius: 30px; padding: 40px;
+            box-shadow: 0 20px 40px rgba(108, 92, 231, 0.1);
+            border: 2px dashed var(--secondary-cute);
+        }
+        .form-control, .form-select {
+            border-radius: 15px; border: 2px solid #eee; padding: 12px;
+        }
+        .form-control:focus { border-color: var(--primary-cute); box-shadow: none; }
+
+        .btn-predict {
+            background: var(--accent-pink); color: white; border: none;
+            border-radius: 15px; padding: 15px 40px; font-weight: 600;
+            font-size: 1.1rem; transition: 0.3s;
+        }
+        .btn-predict:hover { background: #e84393; transform: translateY(-3px); box-shadow: 0 10px 20px rgba(253, 121, 168, 0.3); }
+
+        .feature-icon { font-size: 2.5rem; color: var(--primary-cute); margin-bottom: 15px; }
+    </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg sticky-top">
+    <div class="container">
+        <a class="navbar-brand fs-3 text-primary" href="#">Edu2Job ✨</a>
+        <div class="d-flex align-items-center">
+            <a href="/login" class="btn-login text-decoration-none shadow-sm">Login / Signup</a>
+        </div>
+    </div>
+</nav>
+
+<section class="hero overflow-hidden">
+    <div class="container text-center">
+        <div class="row align-items-center">
+            <div class="col-lg-6 text-lg-start">
+                <h1 class="display-3 fw-bold mb-4">Find your <span style="color: var(--primary-cute);">Dream Career</span> without the stress!</h1>
+                <p class="lead text-muted mb-5">Not sure which job suits your skills? Our AI-powered system predicts the perfect role for you in seconds. Try it for free below!</p>
+                <div class="d-flex gap-3 justify-content-center justify-content-lg-start">
+                    <div class="d-flex align-items-center"><i class="bi bi-check-circle-fill text-success me-2"></i> Free Forever</div>
+                    <div class="d-flex align-items-center"><i class="bi bi-check-circle-fill text-success me-2"></i> No Signup Needed</div>
+                </div>
+            </div>
+            <div class="col-lg-6 mt-5 mt-lg-0">
+                <img src="{{ url_for('static', filename='images/hero.png') }}" alt="Edu2Job Illustration" class="hero-img">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container my-5 py-5" id="predict">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="prediction-box text-center">
+                <h2 class="fw-bold mb-4">Ready to see your future? 🚀</h2>
+                <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Edu2Job | Career Dashboard</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
@@ -105,29 +195,12 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg sticky-top">
-    <div class="container">
-        <a class="navbar-brand fw-bold text-primary" href="#"><i class="bi bi-mortarboard-fill me-2"></i>Edu2Job</a>
-        <div class="d-flex align-items-center">
-            <span class="me-3 text-muted">Hello, {{ session['user'] }}</span>
-            <a href="/logout" class="btn btn-sm btn-outline-danger rounded-pill">Logout</a>
-        </div>
-    </div>
-</nav>
+
 
 <div class="container main-container">
-    <div class="row g-4">
+    <div class="row justify-content-center">
         
-        <div class="col-lg-4">
-            <div class="resume-section">
-                <i class="bi bi-file-earmark-pdf-fill text-primary" style="font-size: 60px;"></i>
-                <h4 class="mt-3">Smart Predict</h4>
-                <p class="text-muted mb-4">No time to fill the form? Predict using the resume you uploaded during registration.</p>
-                <a href="/predict_via_resume" class="btn-resume">
-                    <i class="bi bi-lightning-charge-fill me-2"></i>Predict via Resume
-                </a>
-            </div>
-        </div>
+        
 
         <div class="col-lg-8">
             <div class="card">
@@ -135,7 +208,7 @@
                     <i class="bi bi-pencil-square me-2"></i>Manual Career Assessment
                 </div>
                 <div class="card-body p-4">
-                    <form action="/predict" method="post">
+                    <form action="result.html" method="post">
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                 <label class="form-label">Academic CGPA</label>
@@ -198,7 +271,7 @@
                             </div>
                         </div>
 
-                        <button type="submit" class="predict-btn mt-3">Analyze My Profile</button>
+                        <button type="submit" class="predict-btn mt-3">Analyze My career path</button>
                     </form>
                 </div>
             </div>
@@ -208,7 +281,39 @@
 </div>
 
 <footer class="text-center py-4 text-muted">
-    <small>© 2026 Edu2Job AI Career Predictor |  Project</small>
+    <small>© 2026 Edu2Job AI Career Predictor | Project</small>
+</footer>
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="container mb-5 py-5">
+    <div class="row g-4 text-center">
+        <div class="col-md-4">
+            <i class="bi bi-magic feature-icon"></i>
+            <h4 class="fw-bold">AI Smart Prediction</h4>
+            <p class="text-muted">Uses advanced machine learning to analyze your profile.</p>
+        </div>
+        <div class="col-md-4">
+            <i class="bi bi-graph-up-arrow feature-icon"></i>
+            <h4 class="fw-bold">Progress Tracking</h4>
+            <p class="text-muted">Login to save your mock test results and track growth.</p>
+        </div>
+        <div class="col-md-4">
+            <i class="bi bi-shield-check feature-icon"></i>
+            <h4 class="fw-bold">Skill Assessments</h4>
+            <p class="text-muted">Take Java and DSA tests to test your knowledge.</p>
+        </div>
+    </div>
+</section>
+
+<footer class="text-center py-4 opacity-50">
+    <p>© 2026 Edu2Job | Crafted with ❤️ for MCA Project</p>
 </footer>
 
 </body>
