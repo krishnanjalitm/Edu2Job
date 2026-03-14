@@ -1,0 +1,1001 @@
+S.No,Student_ID,CGPA,Python,Java,SQL,Machine_Learning,Web_Development,Communication_Skills,Internship_Experience,Projects,Certifications,Predicted_Job_Role
+1,STU20260001,6.62,Yes,No,Yes,No,Yes,Low,No,3,0,Frontend Developer
+2,STU20260002,8.16,No,No,Yes,No,Yes,Medium,No,2,0,Frontend Developer
+3,STU20260003,9.98,No,Yes,No,Yes,Yes,Low,No,2,5,Full Stack Developer
+4,STU20260004,9.4,Yes,Yes,No,No,Yes,Low,Yes,5,2,Full Stack Developer
+5,STU20260005,7.52,Yes,No,Yes,Yes,No,Low,No,5,5,ML Engineer
+6,STU20260006,9.91,Yes,Yes,Yes,No,Yes,Medium,Yes,2,1,Full Stack Developer
+7,STU20260007,9.5,No,No,No,No,No,High,Yes,4,5,Data Analyst
+8,STU20260008,8.56,Yes,No,Yes,No,Yes,Low,Yes,0,6,Frontend Developer
+9,STU20260009,9.63,Yes,Yes,Yes,No,Yes,High,No,2,0,Full Stack Developer
+10,STU20260010,8.67,Yes,Yes,Yes,Yes,No,Medium,Yes,2,3,Data Scientist
+11,STU20260011,8.29,No,Yes,No,No,No,High,No,2,6,Software Engineer
+12,STU20260012,9.12,Yes,Yes,Yes,Yes,No,Medium,No,3,3,Data Scientist
+13,STU20260013,6.7,No,Yes,No,No,No,High,Yes,4,4,Software Engineer
+14,STU20260014,8.58,No,No,No,Yes,No,Low,Yes,4,2,Data Analyst
+15,STU20260015,9.43,No,No,Yes,No,Yes,Low,No,3,2,Frontend Developer
+16,STU20260016,8.94,No,Yes,No,Yes,Yes,Medium,No,1,6,Full Stack Developer
+17,STU20260017,7.86,Yes,No,Yes,No,No,Low,Yes,1,0,Software Engineer
+18,STU20260018,7.12,Yes,Yes,Yes,No,Yes,Low,Yes,1,1,Full Stack Developer
+19,STU20260019,7.84,Yes,Yes,No,No,No,Medium,No,1,1,Software Engineer
+20,STU20260020,7.46,Yes,Yes,Yes,Yes,No,Low,No,0,3,ML Engineer
+21,STU20260021,6.2,No,No,No,No,Yes,Low,Yes,1,5,Frontend Developer
+22,STU20260022,7.21,Yes,Yes,No,Yes,Yes,Medium,Yes,2,3,ML Engineer
+23,STU20260023,6.06,No,No,Yes,No,Yes,Medium,No,4,4,Frontend Developer
+24,STU20260024,6.05,No,No,Yes,Yes,Yes,Medium,No,2,3,Frontend Developer
+25,STU20260025,8.82,Yes,Yes,Yes,No,Yes,Low,Yes,4,3,Full Stack Developer
+26,STU20260026,6.83,No,No,Yes,Yes,Yes,High,No,1,0,Frontend Developer
+27,STU20260027,7.76,Yes,Yes,Yes,Yes,No,Low,No,3,1,ML Engineer
+28,STU20260028,6.99,No,Yes,No,Yes,No,Low,No,5,6,Software Engineer
+29,STU20260029,8.95,Yes,Yes,No,Yes,No,Low,Yes,0,3,Data Scientist
+30,STU20260030,6.49,No,No,Yes,Yes,Yes,High,No,2,5,Frontend Developer
+31,STU20260031,7.99,Yes,Yes,No,No,Yes,Low,Yes,0,3,Full Stack Developer
+32,STU20260032,6.31,No,Yes,No,Yes,No,Low,No,4,4,Software Engineer
+33,STU20260033,9.32,No,No,No,Yes,No,Low,No,4,5,Data Analyst
+34,STU20260034,6.73,Yes,Yes,Yes,Yes,Yes,High,No,1,5,ML Engineer
+35,STU20260035,8.16,No,No,No,No,No,Low,Yes,1,5,Data Analyst
+36,STU20260036,7.77,Yes,Yes,No,Yes,No,Low,Yes,1,6,ML Engineer
+37,STU20260037,9.04,No,No,No,No,No,Medium,Yes,2,0,Data Analyst
+38,STU20260038,6.33,No,Yes,No,Yes,Yes,High,Yes,5,2,Full Stack Developer
+39,STU20260039,8.82,Yes,No,No,No,Yes,High,Yes,5,3,Frontend Developer
+40,STU20260040,6.78,Yes,No,No,Yes,Yes,Low,No,5,2,ML Engineer
+41,STU20260041,7.02,Yes,No,No,No,Yes,Low,Yes,4,2,Frontend Developer
+42,STU20260042,8.33,Yes,Yes,No,No,No,Low,No,0,5,Software Engineer
+43,STU20260043,7.48,Yes,No,Yes,Yes,Yes,Medium,No,2,0,ML Engineer
+44,STU20260044,6.74,No,Yes,No,No,Yes,Low,Yes,5,4,Full Stack Developer
+45,STU20260045,7.16,No,No,Yes,No,No,Low,Yes,3,4,Data Analyst
+46,STU20260046,6.38,Yes,No,No,No,No,Low,Yes,2,3,Software Engineer
+47,STU20260047,6.08,No,No,No,No,No,Medium,Yes,1,6,Data Analyst
+48,STU20260048,8.17,No,No,No,No,No,Low,No,5,3,Data Analyst
+49,STU20260049,9.26,Yes,No,No,Yes,No,Low,No,5,4,Data Scientist
+50,STU20260050,7.0,Yes,Yes,No,Yes,Yes,High,Yes,0,2,ML Engineer
+51,STU20260051,8.0,No,No,No,No,No,Low,No,4,1,Data Analyst
+52,STU20260052,9.89,No,No,No,No,Yes,High,Yes,5,5,Frontend Developer
+53,STU20260053,9.59,Yes,No,No,No,No,Low,No,1,5,Software Engineer
+54,STU20260054,6.75,No,No,No,No,Yes,Low,No,1,6,Frontend Developer
+55,STU20260055,9.38,Yes,No,Yes,Yes,No,Low,No,4,4,Data Scientist
+56,STU20260056,8.25,No,No,No,No,Yes,Medium,No,2,2,Frontend Developer
+57,STU20260057,9.28,Yes,Yes,Yes,Yes,Yes,High,Yes,1,0,Data Scientist
+58,STU20260058,9.72,No,Yes,No,No,No,High,Yes,3,5,Software Engineer
+59,STU20260059,9.5,Yes,No,No,No,Yes,Low,No,4,0,Frontend Developer
+60,STU20260060,8.53,Yes,Yes,Yes,Yes,No,Low,No,1,0,Data Scientist
+61,STU20260061,6.82,Yes,No,Yes,Yes,No,High,No,3,0,ML Engineer
+62,STU20260062,6.2,Yes,Yes,Yes,No,No,Low,Yes,3,2,Software Engineer
+63,STU20260063,8.91,Yes,Yes,No,No,No,Medium,Yes,3,6,Software Engineer
+64,STU20260064,7.41,Yes,No,Yes,Yes,No,Low,Yes,5,1,ML Engineer
+65,STU20260065,9.46,No,No,Yes,No,Yes,Medium,Yes,3,2,Frontend Developer
+66,STU20260066,9.85,Yes,Yes,Yes,Yes,Yes,Low,No,3,0,Data Scientist
+67,STU20260067,7.63,Yes,No,No,Yes,Yes,Low,No,0,5,ML Engineer
+68,STU20260068,9.69,Yes,Yes,No,Yes,No,Low,No,4,3,Data Scientist
+69,STU20260069,7.14,Yes,No,No,No,No,Medium,No,2,1,Software Engineer
+70,STU20260070,8.66,Yes,No,Yes,Yes,Yes,High,No,1,0,Data Scientist
+71,STU20260071,6.99,No,Yes,Yes,Yes,No,Low,No,2,0,Software Engineer
+72,STU20260072,8.76,No,Yes,No,Yes,No,High,Yes,5,1,Software Engineer
+73,STU20260073,6.82,Yes,Yes,Yes,No,Yes,High,No,0,6,Full Stack Developer
+74,STU20260074,8.1,Yes,No,Yes,Yes,No,Low,Yes,0,1,Data Scientist
+75,STU20260075,8.41,No,No,Yes,No,Yes,High,No,0,4,Frontend Developer
+76,STU20260076,7.34,No,No,No,Yes,Yes,Medium,Yes,0,5,Frontend Developer
+77,STU20260077,6.66,Yes,No,No,Yes,No,Medium,Yes,3,6,ML Engineer
+78,STU20260078,6.87,Yes,No,No,No,Yes,High,Yes,3,2,Frontend Developer
+79,STU20260079,7.38,Yes,Yes,Yes,Yes,No,High,Yes,2,5,ML Engineer
+80,STU20260080,7.08,Yes,No,Yes,Yes,No,Low,No,3,0,ML Engineer
+81,STU20260081,7.41,Yes,No,No,No,Yes,High,No,1,0,Frontend Developer
+82,STU20260082,8.44,No,Yes,Yes,Yes,No,Low,No,0,6,Software Engineer
+83,STU20260083,9.1,No,No,Yes,No,Yes,Low,Yes,0,6,Frontend Developer
+84,STU20260084,9.39,No,Yes,Yes,No,No,High,Yes,0,0,Business Analyst
+85,STU20260085,7.34,No,No,Yes,Yes,No,Medium,No,2,3,Data Analyst
+86,STU20260086,9.89,No,No,Yes,Yes,Yes,High,No,4,0,Frontend Developer
+87,STU20260087,8.48,Yes,No,Yes,Yes,No,High,No,4,0,Data Scientist
+88,STU20260088,7.06,No,No,Yes,No,No,Medium,No,5,2,Data Analyst
+89,STU20260089,6.43,No,No,No,No,Yes,Medium,No,0,3,Frontend Developer
+90,STU20260090,9.21,No,No,No,Yes,Yes,Medium,Yes,0,0,Frontend Developer
+91,STU20260091,7.99,No,Yes,Yes,Yes,Yes,High,No,1,5,Full Stack Developer
+92,STU20260092,7.52,No,Yes,Yes,No,No,Low,Yes,3,5,Software Engineer
+93,STU20260093,8.52,Yes,Yes,Yes,No,Yes,High,No,2,0,Full Stack Developer
+94,STU20260094,8.82,Yes,No,Yes,Yes,Yes,Low,No,3,0,Data Scientist
+95,STU20260095,9.57,Yes,Yes,Yes,No,Yes,Medium,No,5,3,Full Stack Developer
+96,STU20260096,9.56,Yes,No,No,Yes,No,Medium,No,1,3,Data Scientist
+97,STU20260097,9.44,Yes,No,No,No,Yes,High,No,1,2,Frontend Developer
+98,STU20260098,6.26,No,No,Yes,Yes,No,High,Yes,4,2,Business Analyst
+99,STU20260099,9.99,Yes,Yes,Yes,Yes,No,High,Yes,3,0,Data Scientist
+100,STU20260100,6.75,Yes,Yes,No,Yes,Yes,High,Yes,1,5,ML Engineer
+101,STU20260101,7.62,No,No,No,Yes,No,Low,No,0,1,Data Analyst
+102,STU20260102,9.28,No,Yes,Yes,Yes,Yes,Low,No,2,4,Full Stack Developer
+103,STU20260103,8.73,No,No,Yes,Yes,No,High,Yes,5,6,Business Analyst
+104,STU20260104,6.12,No,No,No,Yes,Yes,High,No,0,6,Frontend Developer
+105,STU20260105,8.07,No,No,Yes,Yes,No,High,No,1,0,Business Analyst
+106,STU20260106,8.91,No,No,No,Yes,Yes,Low,No,2,6,Frontend Developer
+107,STU20260107,7.38,No,Yes,No,Yes,No,Low,No,4,4,Software Engineer
+108,STU20260108,8.93,No,Yes,No,No,Yes,Medium,Yes,1,5,Full Stack Developer
+109,STU20260109,7.81,Yes,Yes,Yes,No,No,Low,No,4,3,Software Engineer
+110,STU20260110,9.65,No,No,No,Yes,Yes,High,No,0,3,Frontend Developer
+111,STU20260111,8.46,Yes,No,No,No,No,Low,No,4,1,Software Engineer
+112,STU20260112,7.03,No,Yes,Yes,No,No,Low,No,4,0,Software Engineer
+113,STU20260113,6.26,Yes,No,Yes,Yes,No,Medium,Yes,1,4,ML Engineer
+114,STU20260114,9.8,No,No,No,Yes,No,Low,No,0,3,Data Analyst
+115,STU20260115,7.1,Yes,No,Yes,No,No,Low,Yes,2,5,Software Engineer
+116,STU20260116,7.86,Yes,No,Yes,Yes,No,High,No,0,5,ML Engineer
+117,STU20260117,6.74,Yes,Yes,No,Yes,No,Medium,No,4,6,ML Engineer
+118,STU20260118,7.6,Yes,Yes,Yes,No,No,High,Yes,3,5,Business Analyst
+119,STU20260119,9.56,No,No,No,No,Yes,Medium,No,5,1,Frontend Developer
+120,STU20260120,9.88,No,No,No,No,Yes,Medium,Yes,0,0,Frontend Developer
+121,STU20260121,9.62,No,Yes,No,Yes,Yes,Low,Yes,3,0,Full Stack Developer
+122,STU20260122,6.44,Yes,No,No,No,No,Medium,No,2,1,Software Engineer
+123,STU20260123,9.23,No,No,Yes,No,No,Low,No,2,4,Data Analyst
+124,STU20260124,6.68,No,No,No,No,No,High,No,3,4,Data Analyst
+125,STU20260125,9.02,No,No,Yes,Yes,Yes,Medium,Yes,1,5,Frontend Developer
+126,STU20260126,9.02,Yes,No,No,Yes,Yes,High,Yes,2,2,Data Scientist
+127,STU20260127,6.91,No,Yes,No,Yes,Yes,Low,Yes,3,0,Full Stack Developer
+128,STU20260128,7.39,Yes,Yes,Yes,Yes,No,Medium,No,5,6,ML Engineer
+129,STU20260129,8.78,No,Yes,No,No,Yes,High,No,5,5,Full Stack Developer
+130,STU20260130,7.2,No,No,No,No,Yes,High,No,5,5,Frontend Developer
+131,STU20260131,7.61,Yes,No,No,No,No,Low,Yes,0,4,Software Engineer
+132,STU20260132,9.28,Yes,No,No,Yes,Yes,High,No,2,5,Data Scientist
+133,STU20260133,9.51,Yes,No,No,Yes,Yes,High,No,5,3,Data Scientist
+134,STU20260134,7.72,No,Yes,Yes,Yes,Yes,Medium,Yes,5,1,Full Stack Developer
+135,STU20260135,9.83,Yes,Yes,Yes,Yes,No,Low,Yes,0,5,Data Scientist
+136,STU20260136,9.11,No,Yes,No,No,Yes,High,Yes,3,0,Full Stack Developer
+137,STU20260137,9.51,Yes,No,No,No,Yes,Medium,No,5,3,Frontend Developer
+138,STU20260138,6.83,Yes,Yes,Yes,Yes,Yes,High,Yes,1,6,ML Engineer
+139,STU20260139,6.93,No,No,No,No,Yes,High,Yes,4,3,Frontend Developer
+140,STU20260140,8.05,No,No,Yes,Yes,Yes,Medium,No,0,6,Frontend Developer
+141,STU20260141,7.19,No,Yes,No,No,Yes,High,Yes,4,0,Full Stack Developer
+142,STU20260142,9.81,Yes,Yes,No,Yes,No,Medium,No,3,4,Data Scientist
+143,STU20260143,7.1,Yes,No,Yes,No,Yes,High,Yes,3,1,Frontend Developer
+144,STU20260144,7.81,No,No,No,No,No,Medium,Yes,1,1,Data Analyst
+145,STU20260145,6.89,No,No,No,No,No,Medium,Yes,1,2,Data Analyst
+146,STU20260146,8.19,No,Yes,No,No,No,Low,No,2,4,Software Engineer
+147,STU20260147,9.85,No,Yes,Yes,Yes,Yes,High,Yes,5,4,Full Stack Developer
+148,STU20260148,10.0,Yes,Yes,Yes,No,Yes,Low,Yes,4,4,Full Stack Developer
+149,STU20260149,8.43,No,Yes,No,Yes,No,Low,Yes,0,5,Software Engineer
+150,STU20260150,6.65,Yes,No,Yes,Yes,Yes,Medium,No,5,6,ML Engineer
+151,STU20260151,8.54,No,Yes,No,Yes,No,High,No,2,1,Software Engineer
+152,STU20260152,6.79,No,Yes,Yes,Yes,Yes,High,No,5,4,Full Stack Developer
+153,STU20260153,8.44,Yes,No,Yes,No,No,Low,No,0,4,Software Engineer
+154,STU20260154,7.76,No,Yes,No,Yes,Yes,Medium,Yes,0,0,Full Stack Developer
+155,STU20260155,6.74,Yes,No,No,Yes,Yes,Medium,No,5,2,ML Engineer
+156,STU20260156,6.09,No,No,No,Yes,Yes,Medium,Yes,1,6,Frontend Developer
+157,STU20260157,8.42,No,Yes,No,Yes,Yes,Medium,No,5,1,Full Stack Developer
+158,STU20260158,7.84,Yes,Yes,Yes,Yes,No,High,Yes,0,5,ML Engineer
+159,STU20260159,6.1,Yes,No,Yes,Yes,Yes,High,Yes,4,6,ML Engineer
+160,STU20260160,7.24,Yes,Yes,No,No,Yes,Medium,No,1,3,Full Stack Developer
+161,STU20260161,9.95,Yes,No,Yes,Yes,No,Low,Yes,5,3,Data Scientist
+162,STU20260162,9.95,No,No,No,No,Yes,Medium,No,1,0,Frontend Developer
+163,STU20260163,6.19,Yes,No,Yes,No,No,High,Yes,2,3,Business Analyst
+164,STU20260164,7.93,Yes,Yes,No,No,No,Low,Yes,0,1,Software Engineer
+165,STU20260165,8.61,Yes,No,No,Yes,No,High,No,5,1,Data Scientist
+166,STU20260166,6.07,No,Yes,Yes,No,Yes,Low,Yes,3,1,Full Stack Developer
+167,STU20260167,9.5,Yes,Yes,No,No,No,High,Yes,5,0,Software Engineer
+168,STU20260168,7.37,No,No,No,No,Yes,Low,No,4,4,Frontend Developer
+169,STU20260169,6.58,Yes,Yes,No,Yes,No,Low,No,1,1,ML Engineer
+170,STU20260170,9.74,Yes,No,Yes,Yes,Yes,Low,Yes,3,6,Data Scientist
+171,STU20260171,7.22,No,No,Yes,Yes,No,Low,Yes,5,4,Data Analyst
+172,STU20260172,6.57,No,No,Yes,Yes,No,Medium,No,1,0,Data Analyst
+173,STU20260173,7.07,Yes,No,No,Yes,No,Medium,Yes,2,4,ML Engineer
+174,STU20260174,6.46,No,Yes,No,Yes,Yes,High,No,5,1,Full Stack Developer
+175,STU20260175,8.18,No,Yes,Yes,No,No,Low,No,3,3,Software Engineer
+176,STU20260176,7.47,Yes,Yes,Yes,Yes,No,High,Yes,4,3,ML Engineer
+177,STU20260177,6.65,Yes,No,No,No,Yes,Medium,Yes,5,1,Frontend Developer
+178,STU20260178,9.8,Yes,No,Yes,No,No,Medium,Yes,4,0,Software Engineer
+179,STU20260179,9.24,Yes,No,Yes,Yes,No,High,No,0,3,Data Scientist
+180,STU20260180,7.26,No,Yes,No,No,No,Medium,Yes,4,3,Software Engineer
+181,STU20260181,7.57,No,Yes,No,Yes,No,Low,No,0,0,Software Engineer
+182,STU20260182,8.45,No,Yes,Yes,No,No,High,No,1,6,Business Analyst
+183,STU20260183,6.65,No,No,Yes,Yes,No,High,Yes,3,5,Business Analyst
+184,STU20260184,6.63,No,Yes,No,Yes,Yes,Low,Yes,3,5,Full Stack Developer
+185,STU20260185,8.86,Yes,No,Yes,No,Yes,Medium,No,3,0,Frontend Developer
+186,STU20260186,9.58,No,Yes,Yes,No,No,High,Yes,1,6,Business Analyst
+187,STU20260187,8.43,Yes,No,No,Yes,No,Medium,Yes,0,5,Data Scientist
+188,STU20260188,6.82,Yes,Yes,No,Yes,Yes,Medium,No,4,0,ML Engineer
+189,STU20260189,8.52,Yes,Yes,No,No,Yes,Low,No,3,6,Full Stack Developer
+190,STU20260190,8.88,No,Yes,No,No,Yes,Low,No,0,4,Full Stack Developer
+191,STU20260191,9.85,No,Yes,Yes,No,Yes,High,No,4,1,Full Stack Developer
+192,STU20260192,6.96,No,No,No,Yes,Yes,High,Yes,5,3,Frontend Developer
+193,STU20260193,8.45,No,Yes,No,No,Yes,Low,Yes,4,1,Full Stack Developer
+194,STU20260194,9.05,Yes,Yes,No,Yes,Yes,High,Yes,3,5,Data Scientist
+195,STU20260195,8.18,No,Yes,No,No,No,Low,No,5,6,Software Engineer
+196,STU20260196,6.22,No,Yes,Yes,No,No,Medium,Yes,5,3,Software Engineer
+197,STU20260197,6.52,Yes,No,Yes,Yes,No,Medium,No,3,6,ML Engineer
+198,STU20260198,9.65,No,No,Yes,No,Yes,High,Yes,1,0,Frontend Developer
+199,STU20260199,8.88,No,No,Yes,No,Yes,Low,Yes,5,2,Frontend Developer
+200,STU20260200,9.96,No,No,No,No,No,High,Yes,5,1,Data Analyst
+201,STU20260201,8.34,Yes,Yes,No,No,No,Medium,Yes,2,4,Software Engineer
+202,STU20260202,6.06,No,No,Yes,Yes,Yes,Low,No,4,5,Frontend Developer
+203,STU20260203,7.44,Yes,No,No,Yes,Yes,Medium,Yes,2,6,ML Engineer
+204,STU20260204,6.67,No,Yes,Yes,No,Yes,Medium,No,0,5,Full Stack Developer
+205,STU20260205,8.09,No,Yes,No,Yes,Yes,High,No,1,5,Full Stack Developer
+206,STU20260206,7.28,Yes,No,Yes,No,No,Low,Yes,3,5,Software Engineer
+207,STU20260207,9.26,No,Yes,No,No,Yes,Medium,Yes,1,0,Full Stack Developer
+208,STU20260208,7.05,No,No,Yes,Yes,Yes,Low,Yes,1,0,Frontend Developer
+209,STU20260209,8.27,No,Yes,Yes,Yes,No,High,No,3,1,Business Analyst
+210,STU20260210,6.03,No,Yes,No,Yes,No,High,Yes,0,0,Software Engineer
+211,STU20260211,8.46,No,No,No,Yes,No,Medium,Yes,4,4,Data Analyst
+212,STU20260212,6.18,No,Yes,Yes,Yes,Yes,Low,No,5,1,Full Stack Developer
+213,STU20260213,7.72,Yes,No,No,Yes,Yes,Medium,Yes,2,0,ML Engineer
+214,STU20260214,8.83,Yes,Yes,Yes,No,No,Medium,No,5,2,Software Engineer
+215,STU20260215,8.11,No,No,No,No,No,Medium,No,3,6,Data Analyst
+216,STU20260216,9.83,Yes,Yes,Yes,No,No,Medium,Yes,4,6,Software Engineer
+217,STU20260217,6.13,Yes,No,Yes,Yes,Yes,Low,Yes,0,5,ML Engineer
+218,STU20260218,7.17,Yes,No,Yes,Yes,Yes,Medium,No,4,2,ML Engineer
+219,STU20260219,6.9,Yes,Yes,No,No,No,Low,No,4,1,Software Engineer
+220,STU20260220,7.3,Yes,Yes,Yes,Yes,No,Medium,Yes,4,4,ML Engineer
+221,STU20260221,9.7,Yes,No,Yes,Yes,Yes,High,No,1,1,Data Scientist
+222,STU20260222,9.3,No,No,No,No,Yes,Medium,Yes,0,2,Frontend Developer
+223,STU20260223,6.76,No,Yes,Yes,No,No,Medium,No,3,5,Software Engineer
+224,STU20260224,7.82,Yes,No,No,Yes,Yes,Low,No,1,0,ML Engineer
+225,STU20260225,8.26,No,No,Yes,Yes,Yes,Medium,No,1,4,Frontend Developer
+226,STU20260226,9.43,No,Yes,Yes,No,No,Low,No,2,1,Software Engineer
+227,STU20260227,9.72,Yes,Yes,No,No,No,Medium,Yes,5,3,Software Engineer
+228,STU20260228,6.26,Yes,Yes,Yes,No,Yes,Medium,No,3,6,Full Stack Developer
+229,STU20260229,6.64,Yes,No,Yes,No,No,High,No,4,6,Business Analyst
+230,STU20260230,7.27,Yes,Yes,Yes,No,No,Medium,Yes,4,2,Software Engineer
+231,STU20260231,7.02,No,Yes,No,Yes,Yes,Medium,Yes,5,5,Full Stack Developer
+232,STU20260232,8.39,No,No,No,Yes,Yes,High,No,4,4,Frontend Developer
+233,STU20260233,8.91,No,No,Yes,No,Yes,Medium,Yes,1,6,Frontend Developer
+234,STU20260234,9.88,No,No,No,Yes,Yes,Medium,Yes,3,5,Frontend Developer
+235,STU20260235,8.01,Yes,Yes,No,Yes,Yes,Medium,Yes,4,3,Data Scientist
+236,STU20260236,8.99,Yes,Yes,No,No,No,Medium,Yes,4,0,Software Engineer
+237,STU20260237,9.97,No,Yes,Yes,No,No,High,No,3,2,Business Analyst
+238,STU20260238,9.34,Yes,Yes,No,No,Yes,Medium,Yes,3,6,Full Stack Developer
+239,STU20260239,9.16,No,No,No,No,Yes,Medium,Yes,0,1,Frontend Developer
+240,STU20260240,6.14,No,Yes,Yes,No,No,High,No,2,3,Business Analyst
+241,STU20260241,8.84,No,Yes,Yes,No,No,Low,No,5,3,Software Engineer
+242,STU20260242,9.92,No,No,No,No,Yes,Medium,Yes,3,1,Frontend Developer
+243,STU20260243,6.92,Yes,No,No,Yes,Yes,Low,Yes,1,4,ML Engineer
+244,STU20260244,9.48,No,Yes,Yes,No,Yes,Low,No,2,1,Full Stack Developer
+245,STU20260245,9.82,Yes,Yes,Yes,Yes,Yes,Low,Yes,3,2,Data Scientist
+246,STU20260246,7.45,No,No,Yes,No,Yes,Low,No,3,0,Frontend Developer
+247,STU20260247,8.05,Yes,No,Yes,No,Yes,Medium,Yes,1,5,Frontend Developer
+248,STU20260248,7.2,Yes,Yes,Yes,Yes,Yes,Low,Yes,0,3,ML Engineer
+249,STU20260249,9.16,No,Yes,No,Yes,No,Medium,No,3,6,Software Engineer
+250,STU20260250,9.59,No,Yes,No,No,Yes,Medium,Yes,0,0,Full Stack Developer
+251,STU20260251,9.12,No,No,No,No,Yes,High,No,3,2,Frontend Developer
+252,STU20260252,6.76,Yes,Yes,No,No,No,High,Yes,3,4,Software Engineer
+253,STU20260253,7.96,No,No,No,Yes,Yes,Low,Yes,4,6,Frontend Developer
+254,STU20260254,7.88,No,No,No,Yes,Yes,Medium,No,0,6,Frontend Developer
+255,STU20260255,9.18,No,Yes,Yes,Yes,No,High,No,0,3,Business Analyst
+256,STU20260256,6.24,Yes,Yes,No,Yes,No,High,No,3,5,ML Engineer
+257,STU20260257,7.1,Yes,Yes,Yes,No,Yes,Medium,No,1,2,Full Stack Developer
+258,STU20260258,8.18,No,No,Yes,Yes,No,Medium,Yes,1,2,Data Analyst
+259,STU20260259,6.93,No,No,No,Yes,No,Medium,Yes,4,0,Data Analyst
+260,STU20260260,6.51,Yes,Yes,No,Yes,No,Medium,No,2,3,ML Engineer
+261,STU20260261,9.44,No,Yes,Yes,No,No,Medium,Yes,3,0,Software Engineer
+262,STU20260262,7.27,No,No,Yes,Yes,No,Medium,Yes,3,2,Data Analyst
+263,STU20260263,9.77,No,Yes,No,No,No,Medium,No,0,0,Software Engineer
+264,STU20260264,8.13,Yes,No,No,Yes,Yes,Medium,No,2,6,Data Scientist
+265,STU20260265,9.89,No,No,No,Yes,Yes,High,Yes,0,5,Frontend Developer
+266,STU20260266,6.6,No,No,Yes,Yes,No,High,No,5,0,Business Analyst
+267,STU20260267,7.72,No,No,No,No,Yes,Low,Yes,4,5,Frontend Developer
+268,STU20260268,7.05,Yes,Yes,No,No,Yes,Medium,Yes,5,3,Full Stack Developer
+269,STU20260269,8.75,No,Yes,Yes,No,Yes,High,No,4,2,Full Stack Developer
+270,STU20260270,8.53,Yes,No,Yes,No,Yes,High,Yes,5,6,Frontend Developer
+271,STU20260271,8.7,No,Yes,Yes,Yes,No,Medium,Yes,5,4,Software Engineer
+272,STU20260272,6.83,No,Yes,Yes,No,Yes,High,Yes,2,6,Full Stack Developer
+273,STU20260273,7.8,No,Yes,No,Yes,Yes,High,Yes,2,2,Full Stack Developer
+274,STU20260274,7.17,No,No,No,Yes,Yes,Low,Yes,3,1,Frontend Developer
+275,STU20260275,9.89,No,Yes,No,Yes,Yes,Low,Yes,4,5,Full Stack Developer
+276,STU20260276,9.8,Yes,Yes,No,No,Yes,Medium,Yes,0,5,Full Stack Developer
+277,STU20260277,6.2,Yes,No,Yes,Yes,No,Medium,Yes,4,4,ML Engineer
+278,STU20260278,6.78,Yes,Yes,Yes,No,No,Medium,Yes,5,5,Software Engineer
+279,STU20260279,7.54,No,No,No,No,No,Medium,No,1,3,Data Analyst
+280,STU20260280,8.69,No,Yes,No,No,Yes,Low,No,3,1,Full Stack Developer
+281,STU20260281,8.21,Yes,No,No,No,Yes,Medium,Yes,3,6,Frontend Developer
+282,STU20260282,9.21,Yes,Yes,Yes,Yes,Yes,Medium,No,5,0,Data Scientist
+283,STU20260283,9.44,No,No,No,Yes,No,Low,Yes,3,3,Data Analyst
+284,STU20260284,7.73,No,Yes,Yes,Yes,No,High,No,4,5,Business Analyst
+285,STU20260285,7.58,No,No,Yes,No,Yes,Low,No,3,6,Frontend Developer
+286,STU20260286,9.74,Yes,No,Yes,No,No,Medium,No,1,6,Software Engineer
+287,STU20260287,8.33,Yes,Yes,No,Yes,Yes,High,Yes,1,3,Data Scientist
+288,STU20260288,8.32,No,Yes,Yes,No,Yes,High,Yes,2,5,Full Stack Developer
+289,STU20260289,8.05,No,No,No,No,Yes,Low,No,2,0,Frontend Developer
+290,STU20260290,9.81,No,Yes,Yes,No,Yes,Low,Yes,1,0,Full Stack Developer
+291,STU20260291,7.07,No,Yes,Yes,Yes,No,Low,No,5,3,Software Engineer
+292,STU20260292,7.47,No,No,Yes,No,No,Low,No,3,1,Data Analyst
+293,STU20260293,9.9,Yes,Yes,No,No,Yes,High,Yes,2,4,Full Stack Developer
+294,STU20260294,9.0,Yes,Yes,No,No,Yes,High,No,0,2,Full Stack Developer
+295,STU20260295,9.84,No,Yes,Yes,Yes,No,Low,Yes,5,3,Software Engineer
+296,STU20260296,9.76,No,No,No,Yes,Yes,High,No,2,1,Frontend Developer
+297,STU20260297,7.19,Yes,No,No,No,No,Medium,Yes,1,1,Software Engineer
+298,STU20260298,6.33,Yes,Yes,No,Yes,No,Low,Yes,3,4,ML Engineer
+299,STU20260299,6.85,Yes,Yes,Yes,No,No,High,Yes,1,3,Business Analyst
+300,STU20260300,7.07,No,No,Yes,No,No,High,No,5,5,Business Analyst
+301,STU20260301,8.98,No,Yes,Yes,Yes,No,Medium,No,5,5,Software Engineer
+302,STU20260302,8.67,No,No,No,No,No,Low,No,4,3,Data Analyst
+303,STU20260303,9.75,Yes,No,Yes,No,Yes,High,No,4,0,Frontend Developer
+304,STU20260304,7.18,No,Yes,No,No,Yes,High,No,0,5,Full Stack Developer
+305,STU20260305,6.99,Yes,Yes,No,No,No,High,Yes,4,6,Software Engineer
+306,STU20260306,7.99,Yes,No,Yes,No,Yes,High,Yes,3,4,Frontend Developer
+307,STU20260307,8.18,Yes,Yes,No,No,Yes,Low,Yes,4,4,Full Stack Developer
+308,STU20260308,6.79,No,No,Yes,No,Yes,High,No,4,5,Frontend Developer
+309,STU20260309,7.98,No,No,Yes,Yes,No,Medium,Yes,0,4,Data Analyst
+310,STU20260310,8.44,No,No,Yes,Yes,Yes,High,Yes,3,4,Frontend Developer
+311,STU20260311,6.31,No,Yes,No,Yes,No,Low,No,3,2,Software Engineer
+312,STU20260312,8.17,Yes,No,No,No,No,Medium,No,5,0,Software Engineer
+313,STU20260313,9.23,No,No,Yes,No,Yes,High,Yes,5,5,Frontend Developer
+314,STU20260314,9.05,No,Yes,No,No,Yes,Medium,Yes,1,1,Full Stack Developer
+315,STU20260315,9.68,No,No,Yes,No,Yes,Medium,No,3,3,Frontend Developer
+316,STU20260316,6.34,Yes,Yes,No,No,Yes,Low,No,1,0,Full Stack Developer
+317,STU20260317,9.7,No,No,No,Yes,No,Medium,No,3,1,Data Analyst
+318,STU20260318,8.52,No,No,Yes,No,Yes,Medium,No,5,0,Frontend Developer
+319,STU20260319,8.13,No,No,Yes,No,Yes,High,Yes,5,3,Frontend Developer
+320,STU20260320,9.16,Yes,Yes,Yes,No,Yes,High,No,0,6,Full Stack Developer
+321,STU20260321,9.43,No,Yes,Yes,No,Yes,Medium,No,1,0,Full Stack Developer
+322,STU20260322,6.53,No,No,Yes,Yes,No,High,Yes,2,3,Business Analyst
+323,STU20260323,7.45,Yes,Yes,Yes,Yes,Yes,Medium,Yes,2,0,ML Engineer
+324,STU20260324,6.76,Yes,Yes,Yes,No,No,High,No,3,1,Business Analyst
+325,STU20260325,7.66,No,No,Yes,Yes,No,Low,Yes,5,4,Data Analyst
+326,STU20260326,7.28,No,Yes,No,Yes,No,Medium,No,5,3,Software Engineer
+327,STU20260327,8.22,No,Yes,No,Yes,Yes,Medium,Yes,5,2,Full Stack Developer
+328,STU20260328,9.96,Yes,No,Yes,Yes,Yes,Medium,No,2,6,Data Scientist
+329,STU20260329,8.58,No,Yes,No,No,Yes,High,Yes,1,5,Full Stack Developer
+330,STU20260330,8.15,Yes,No,No,No,No,High,Yes,1,2,Software Engineer
+331,STU20260331,8.16,Yes,Yes,Yes,No,Yes,Low,Yes,3,2,Full Stack Developer
+332,STU20260332,7.87,Yes,No,No,Yes,No,Low,Yes,1,4,ML Engineer
+333,STU20260333,8.08,No,Yes,No,No,No,Medium,Yes,1,2,Software Engineer
+334,STU20260334,6.86,No,No,No,No,No,Medium,Yes,5,3,Data Analyst
+335,STU20260335,8.76,Yes,Yes,No,Yes,No,Low,Yes,0,0,Data Scientist
+336,STU20260336,7.86,No,No,No,No,Yes,Low,No,1,6,Frontend Developer
+337,STU20260337,6.99,Yes,No,No,No,Yes,High,Yes,2,1,Frontend Developer
+338,STU20260338,6.29,Yes,Yes,Yes,No,Yes,High,Yes,1,6,Full Stack Developer
+339,STU20260339,7.88,Yes,No,No,No,Yes,Low,No,0,2,Frontend Developer
+340,STU20260340,9.19,Yes,No,No,No,No,Low,Yes,2,5,Software Engineer
+341,STU20260341,9.31,Yes,Yes,No,Yes,Yes,High,Yes,5,4,Data Scientist
+342,STU20260342,7.66,Yes,Yes,Yes,No,No,Medium,Yes,3,6,Software Engineer
+343,STU20260343,8.94,No,No,Yes,Yes,Yes,Medium,Yes,5,6,Frontend Developer
+344,STU20260344,8.54,No,Yes,No,No,Yes,Low,No,5,5,Full Stack Developer
+345,STU20260345,7.48,No,Yes,Yes,Yes,No,Medium,No,2,5,Software Engineer
+346,STU20260346,9.28,No,Yes,Yes,No,No,Medium,Yes,1,1,Software Engineer
+347,STU20260347,7.59,No,Yes,No,Yes,No,Medium,Yes,1,4,Software Engineer
+348,STU20260348,8.24,No,No,No,Yes,No,Medium,No,2,5,Data Analyst
+349,STU20260349,6.39,No,Yes,Yes,Yes,No,Low,Yes,4,4,Software Engineer
+350,STU20260350,8.61,Yes,Yes,No,Yes,Yes,Low,No,1,4,Data Scientist
+351,STU20260351,6.03,Yes,No,Yes,Yes,No,High,No,4,6,ML Engineer
+352,STU20260352,8.16,No,Yes,No,Yes,No,High,No,3,4,Software Engineer
+353,STU20260353,6.22,No,Yes,No,No,Yes,Medium,Yes,1,2,Full Stack Developer
+354,STU20260354,6.02,Yes,Yes,No,Yes,No,Medium,Yes,4,0,ML Engineer
+355,STU20260355,6.4,Yes,Yes,Yes,Yes,No,Medium,No,4,5,ML Engineer
+356,STU20260356,9.28,No,Yes,No,Yes,Yes,Medium,Yes,2,0,Full Stack Developer
+357,STU20260357,9.35,No,Yes,No,Yes,No,Low,Yes,5,6,Software Engineer
+358,STU20260358,9.58,Yes,No,Yes,Yes,Yes,Medium,Yes,5,0,Data Scientist
+359,STU20260359,6.28,No,No,Yes,No,Yes,Medium,No,1,1,Frontend Developer
+360,STU20260360,8.54,No,Yes,No,Yes,Yes,Medium,No,0,6,Full Stack Developer
+361,STU20260361,9.81,No,Yes,Yes,Yes,Yes,Medium,Yes,0,2,Full Stack Developer
+362,STU20260362,8.98,Yes,No,No,Yes,Yes,High,Yes,3,3,Data Scientist
+363,STU20260363,9.89,Yes,No,Yes,No,Yes,Medium,No,2,6,Frontend Developer
+364,STU20260364,6.87,No,No,No,Yes,No,Low,Yes,5,3,Data Analyst
+365,STU20260365,7.63,No,Yes,No,No,Yes,Low,No,3,4,Full Stack Developer
+366,STU20260366,7.3,Yes,No,No,Yes,Yes,Medium,Yes,5,4,ML Engineer
+367,STU20260367,8.28,No,No,Yes,Yes,No,Medium,Yes,4,0,Data Analyst
+368,STU20260368,7.67,No,Yes,Yes,No,No,Medium,No,0,5,Software Engineer
+369,STU20260369,8.46,Yes,No,Yes,No,No,High,Yes,0,6,Business Analyst
+370,STU20260370,9.54,Yes,No,No,Yes,No,Medium,No,2,0,Data Scientist
+371,STU20260371,7.29,No,No,Yes,Yes,No,High,Yes,2,6,Business Analyst
+372,STU20260372,6.15,Yes,Yes,No,No,Yes,Medium,Yes,3,3,Full Stack Developer
+373,STU20260373,9.0,Yes,No,No,No,Yes,Low,Yes,3,1,Frontend Developer
+374,STU20260374,8.82,Yes,Yes,No,No,No,Medium,No,3,0,Software Engineer
+375,STU20260375,6.49,No,Yes,No,Yes,No,Low,No,0,1,Software Engineer
+376,STU20260376,7.62,Yes,Yes,Yes,Yes,Yes,Low,Yes,4,0,ML Engineer
+377,STU20260377,9.02,No,Yes,Yes,Yes,Yes,Low,No,5,6,Full Stack Developer
+378,STU20260378,9.68,Yes,Yes,Yes,Yes,No,Medium,Yes,4,3,Data Scientist
+379,STU20260379,8.7,No,No,No,No,Yes,High,Yes,5,5,Frontend Developer
+380,STU20260380,8.34,No,No,Yes,Yes,No,High,No,1,5,Business Analyst
+381,STU20260381,7.38,No,Yes,No,Yes,No,Medium,Yes,3,3,Software Engineer
+382,STU20260382,8.73,Yes,Yes,No,Yes,No,Medium,Yes,4,3,Data Scientist
+383,STU20260383,6.88,Yes,No,Yes,No,No,High,No,0,4,Business Analyst
+384,STU20260384,8.52,No,No,No,No,Yes,Low,No,4,6,Frontend Developer
+385,STU20260385,6.54,Yes,No,Yes,No,Yes,Medium,Yes,2,5,Frontend Developer
+386,STU20260386,8.89,Yes,Yes,Yes,Yes,No,Medium,Yes,5,1,Data Scientist
+387,STU20260387,7.73,Yes,No,Yes,No,No,Low,Yes,2,1,Software Engineer
+388,STU20260388,9.09,Yes,No,Yes,Yes,Yes,High,Yes,2,1,Data Scientist
+389,STU20260389,6.79,Yes,No,No,No,Yes,High,Yes,1,4,Frontend Developer
+390,STU20260390,9.52,Yes,Yes,No,Yes,Yes,Medium,No,1,1,Data Scientist
+391,STU20260391,6.44,No,Yes,No,Yes,No,Low,Yes,2,5,Software Engineer
+392,STU20260392,6.18,Yes,No,Yes,Yes,Yes,Low,No,2,2,ML Engineer
+393,STU20260393,7.02,Yes,Yes,Yes,No,No,Low,Yes,5,0,Software Engineer
+394,STU20260394,8.12,No,Yes,No,No,No,Low,Yes,1,3,Software Engineer
+395,STU20260395,6.54,Yes,No,No,No,No,Medium,No,2,1,Software Engineer
+396,STU20260396,8.34,Yes,No,No,Yes,No,Low,Yes,1,2,Data Scientist
+397,STU20260397,7.47,No,No,Yes,Yes,No,Low,No,2,4,Data Analyst
+398,STU20260398,6.27,No,No,Yes,Yes,Yes,Medium,No,2,2,Frontend Developer
+399,STU20260399,9.69,Yes,No,Yes,No,No,Low,Yes,2,3,Software Engineer
+400,STU20260400,8.78,Yes,No,No,Yes,No,Low,Yes,0,0,Data Scientist
+401,STU20260401,6.32,No,Yes,No,Yes,Yes,Medium,Yes,2,6,Full Stack Developer
+402,STU20260402,6.61,Yes,No,No,No,Yes,Low,No,1,3,Frontend Developer
+403,STU20260403,8.07,Yes,Yes,No,Yes,No,Medium,Yes,2,5,Data Scientist
+404,STU20260404,9.67,No,No,Yes,Yes,No,Low,Yes,3,0,Data Analyst
+405,STU20260405,7.83,No,Yes,Yes,No,Yes,High,Yes,1,6,Full Stack Developer
+406,STU20260406,6.49,No,Yes,Yes,No,No,High,No,2,4,Business Analyst
+407,STU20260407,7.01,Yes,Yes,No,No,Yes,Low,Yes,4,1,Full Stack Developer
+408,STU20260408,9.65,No,Yes,No,Yes,Yes,Low,No,2,4,Full Stack Developer
+409,STU20260409,8.05,Yes,Yes,Yes,No,Yes,High,No,0,0,Full Stack Developer
+410,STU20260410,7.58,Yes,No,Yes,No,No,Medium,Yes,0,4,Software Engineer
+411,STU20260411,7.5,Yes,Yes,Yes,No,No,Low,No,3,1,Software Engineer
+412,STU20260412,7.5,No,No,Yes,Yes,Yes,Low,Yes,4,0,Frontend Developer
+413,STU20260413,6.84,No,Yes,No,No,No,High,Yes,4,0,Software Engineer
+414,STU20260414,9.54,Yes,No,No,No,Yes,Medium,No,2,3,Frontend Developer
+415,STU20260415,7.86,Yes,No,No,No,No,High,Yes,0,4,Software Engineer
+416,STU20260416,6.63,No,Yes,Yes,Yes,No,High,Yes,4,3,Business Analyst
+417,STU20260417,6.72,No,Yes,No,No,Yes,Low,No,1,6,Full Stack Developer
+418,STU20260418,8.86,Yes,No,Yes,No,Yes,High,No,2,2,Frontend Developer
+419,STU20260419,6.36,Yes,No,No,No,Yes,Low,Yes,4,0,Frontend Developer
+420,STU20260420,6.72,No,No,Yes,Yes,Yes,High,No,4,0,Frontend Developer
+421,STU20260421,7.9,Yes,Yes,No,Yes,No,Low,Yes,3,6,ML Engineer
+422,STU20260422,8.52,No,No,No,No,Yes,High,Yes,3,0,Frontend Developer
+423,STU20260423,6.44,No,No,Yes,No,No,Low,No,0,0,Data Analyst
+424,STU20260424,6.06,Yes,No,No,Yes,Yes,Medium,No,2,1,ML Engineer
+425,STU20260425,8.67,No,No,No,No,Yes,Medium,Yes,5,0,Frontend Developer
+426,STU20260426,7.77,No,No,Yes,Yes,No,Medium,Yes,1,5,Data Analyst
+427,STU20260427,7.81,Yes,No,No,Yes,No,Medium,No,4,4,ML Engineer
+428,STU20260428,7.29,No,Yes,Yes,Yes,Yes,Low,Yes,5,1,Full Stack Developer
+429,STU20260429,9.8,Yes,No,Yes,Yes,Yes,Medium,No,3,6,Data Scientist
+430,STU20260430,7.38,Yes,Yes,No,Yes,No,Medium,Yes,0,5,ML Engineer
+431,STU20260431,9.99,Yes,No,No,No,No,Medium,No,0,0,Software Engineer
+432,STU20260432,10.0,Yes,No,Yes,No,Yes,Low,Yes,1,5,Frontend Developer
+433,STU20260433,9.86,No,Yes,No,No,No,Medium,Yes,2,6,Software Engineer
+434,STU20260434,6.56,No,No,Yes,Yes,No,Medium,No,0,3,Data Analyst
+435,STU20260435,6.76,Yes,Yes,Yes,No,No,High,Yes,3,2,Business Analyst
+436,STU20260436,6.2,No,Yes,Yes,No,No,High,No,3,1,Business Analyst
+437,STU20260437,9.02,Yes,Yes,No,Yes,Yes,High,No,1,1,Data Scientist
+438,STU20260438,9.93,No,No,No,No,Yes,High,No,5,0,Frontend Developer
+439,STU20260439,9.01,Yes,No,No,Yes,Yes,High,No,0,3,Data Scientist
+440,STU20260440,6.88,No,No,No,No,Yes,High,No,1,4,Frontend Developer
+441,STU20260441,8.81,No,No,Yes,No,No,High,Yes,1,1,Business Analyst
+442,STU20260442,8.56,No,Yes,Yes,Yes,No,High,Yes,1,4,Business Analyst
+443,STU20260443,9.82,Yes,Yes,No,Yes,No,High,Yes,0,5,Data Scientist
+444,STU20260444,8.3,No,No,Yes,No,No,Medium,No,2,2,Data Analyst
+445,STU20260445,9.99,Yes,Yes,No,No,No,High,Yes,1,0,Software Engineer
+446,STU20260446,6.2,Yes,No,No,No,Yes,Low,No,4,1,Frontend Developer
+447,STU20260447,6.42,Yes,Yes,Yes,Yes,Yes,High,No,1,0,ML Engineer
+448,STU20260448,9.79,No,No,Yes,No,No,Low,No,0,3,Data Analyst
+449,STU20260449,9.2,No,Yes,Yes,Yes,No,Medium,Yes,2,2,Software Engineer
+450,STU20260450,8.21,Yes,Yes,Yes,Yes,No,High,Yes,1,3,Data Scientist
+451,STU20260451,8.59,No,No,No,No,Yes,Low,Yes,3,4,Frontend Developer
+452,STU20260452,7.77,Yes,No,Yes,Yes,No,Medium,No,1,5,ML Engineer
+453,STU20260453,9.36,Yes,No,No,No,Yes,High,No,2,1,Frontend Developer
+454,STU20260454,6.28,Yes,Yes,Yes,Yes,Yes,High,No,3,4,ML Engineer
+455,STU20260455,6.12,No,Yes,Yes,Yes,No,Medium,Yes,2,4,Software Engineer
+456,STU20260456,7.48,Yes,Yes,Yes,No,Yes,Medium,Yes,0,2,Full Stack Developer
+457,STU20260457,9.62,No,No,No,No,No,Medium,Yes,1,4,Data Analyst
+458,STU20260458,7.21,Yes,Yes,No,No,Yes,Low,Yes,2,1,Full Stack Developer
+459,STU20260459,9.02,Yes,No,Yes,Yes,Yes,Medium,Yes,5,0,Data Scientist
+460,STU20260460,6.73,No,Yes,Yes,No,Yes,Medium,Yes,1,0,Full Stack Developer
+461,STU20260461,9.18,No,Yes,No,No,No,High,No,1,2,Software Engineer
+462,STU20260462,9.96,Yes,Yes,Yes,Yes,No,Low,No,3,2,Data Scientist
+463,STU20260463,9.88,Yes,Yes,No,No,No,Low,No,4,1,Software Engineer
+464,STU20260464,9.24,Yes,Yes,No,Yes,No,Medium,No,2,2,Data Scientist
+465,STU20260465,6.88,No,Yes,Yes,Yes,Yes,High,Yes,2,2,Full Stack Developer
+466,STU20260466,9.08,Yes,Yes,No,Yes,No,Medium,No,0,2,Data Scientist
+467,STU20260467,7.16,No,Yes,No,Yes,No,Low,No,2,2,Software Engineer
+468,STU20260468,8.1,Yes,Yes,No,Yes,Yes,Low,No,4,1,Data Scientist
+469,STU20260469,7.46,Yes,Yes,Yes,Yes,Yes,Medium,Yes,1,1,ML Engineer
+470,STU20260470,8.29,No,Yes,Yes,No,Yes,Low,Yes,3,1,Full Stack Developer
+471,STU20260471,9.93,No,Yes,No,Yes,Yes,Medium,No,1,2,Full Stack Developer
+472,STU20260472,7.65,Yes,Yes,Yes,No,Yes,Medium,Yes,0,6,Full Stack Developer
+473,STU20260473,6.1,No,No,No,No,Yes,Medium,Yes,1,1,Frontend Developer
+474,STU20260474,8.68,No,No,Yes,Yes,Yes,High,Yes,0,6,Frontend Developer
+475,STU20260475,9.42,Yes,No,Yes,No,No,High,Yes,1,1,Business Analyst
+476,STU20260476,8.03,Yes,No,No,Yes,Yes,Medium,No,1,6,Data Scientist
+477,STU20260477,7.27,Yes,Yes,Yes,No,No,Medium,No,5,3,Software Engineer
+478,STU20260478,6.58,No,Yes,No,No,Yes,Medium,Yes,5,2,Full Stack Developer
+479,STU20260479,9.38,Yes,No,Yes,Yes,No,Low,Yes,5,0,Data Scientist
+480,STU20260480,8.54,No,Yes,Yes,No,Yes,Medium,Yes,0,0,Full Stack Developer
+481,STU20260481,8.88,No,No,No,No,No,High,Yes,0,1,Data Analyst
+482,STU20260482,7.84,No,No,Yes,No,No,High,Yes,2,0,Business Analyst
+483,STU20260483,8.94,Yes,No,Yes,Yes,Yes,High,Yes,3,6,Data Scientist
+484,STU20260484,6.72,No,Yes,No,Yes,Yes,Low,Yes,5,2,Full Stack Developer
+485,STU20260485,7.95,No,No,No,No,No,Low,Yes,2,1,Data Analyst
+486,STU20260486,7.85,Yes,Yes,No,Yes,Yes,Low,No,1,3,ML Engineer
+487,STU20260487,8.21,No,Yes,Yes,No,No,High,Yes,4,0,Business Analyst
+488,STU20260488,6.32,Yes,Yes,Yes,Yes,No,Low,No,2,5,ML Engineer
+489,STU20260489,6.57,No,Yes,No,Yes,Yes,Medium,No,5,5,Full Stack Developer
+490,STU20260490,7.92,No,No,No,No,No,High,No,2,3,Data Analyst
+491,STU20260491,6.87,No,Yes,No,No,Yes,Medium,Yes,2,6,Full Stack Developer
+492,STU20260492,7.99,Yes,Yes,Yes,No,Yes,Low,No,0,5,Full Stack Developer
+493,STU20260493,9.66,Yes,No,No,No,Yes,Medium,Yes,5,3,Frontend Developer
+494,STU20260494,6.13,No,Yes,No,No,Yes,Medium,No,2,2,Full Stack Developer
+495,STU20260495,6.95,Yes,No,Yes,No,No,Medium,No,3,4,Software Engineer
+496,STU20260496,8.43,Yes,Yes,Yes,Yes,Yes,Medium,No,4,2,Data Scientist
+497,STU20260497,9.73,Yes,Yes,No,Yes,No,Low,Yes,3,1,Data Scientist
+498,STU20260498,6.78,Yes,No,No,Yes,Yes,Medium,No,1,4,ML Engineer
+499,STU20260499,6.24,No,Yes,No,No,No,Low,No,1,3,Software Engineer
+500,STU20260500,6.32,Yes,No,No,Yes,No,Medium,No,0,0,ML Engineer
+501,STU20260501,8.73,Yes,Yes,Yes,No,Yes,Medium,Yes,0,2,Full Stack Developer
+502,STU20260502,6.37,Yes,Yes,No,No,Yes,High,Yes,2,5,Full Stack Developer
+503,STU20260503,6.81,Yes,Yes,No,Yes,Yes,High,No,1,1,ML Engineer
+504,STU20260504,8.18,No,No,Yes,Yes,No,Medium,Yes,3,1,Data Analyst
+505,STU20260505,6.93,No,No,Yes,No,No,Medium,Yes,0,6,Data Analyst
+506,STU20260506,6.4,No,No,No,No,Yes,Low,Yes,5,5,Frontend Developer
+507,STU20260507,7.54,No,No,Yes,No,No,Medium,Yes,2,3,Data Analyst
+508,STU20260508,8.31,Yes,No,Yes,Yes,No,High,No,3,4,Data Scientist
+509,STU20260509,7.72,No,Yes,No,Yes,No,Medium,Yes,0,2,Software Engineer
+510,STU20260510,9.03,No,No,No,Yes,Yes,High,No,1,6,Frontend Developer
+511,STU20260511,9.84,No,Yes,Yes,Yes,Yes,High,No,0,4,Full Stack Developer
+512,STU20260512,6.63,Yes,No,Yes,No,No,High,No,1,1,Business Analyst
+513,STU20260513,6.94,No,No,No,Yes,Yes,Low,No,1,0,Frontend Developer
+514,STU20260514,9.72,No,No,No,No,Yes,Low,Yes,5,5,Frontend Developer
+515,STU20260515,8.79,Yes,No,No,Yes,No,High,No,4,3,Data Scientist
+516,STU20260516,7.43,No,Yes,No,Yes,Yes,Medium,Yes,3,1,Full Stack Developer
+517,STU20260517,9.25,Yes,No,No,No,Yes,Low,No,3,6,Frontend Developer
+518,STU20260518,9.72,Yes,No,Yes,Yes,No,Low,Yes,0,2,Data Scientist
+519,STU20260519,7.31,No,No,Yes,Yes,Yes,Low,No,5,5,Frontend Developer
+520,STU20260520,7.48,No,Yes,Yes,No,Yes,High,No,1,2,Full Stack Developer
+521,STU20260521,9.97,Yes,No,Yes,No,No,Low,No,3,1,Software Engineer
+522,STU20260522,8.43,Yes,No,No,Yes,No,High,Yes,4,1,Data Scientist
+523,STU20260523,6.89,No,Yes,No,Yes,Yes,High,Yes,3,3,Full Stack Developer
+524,STU20260524,7.39,No,No,Yes,Yes,No,High,No,3,2,Business Analyst
+525,STU20260525,8.34,Yes,Yes,Yes,Yes,No,High,No,4,2,Data Scientist
+526,STU20260526,9.66,Yes,No,Yes,No,No,Medium,No,0,4,Software Engineer
+527,STU20260527,8.01,No,No,No,Yes,Yes,High,Yes,1,1,Frontend Developer
+528,STU20260528,9.64,No,Yes,Yes,No,No,Low,Yes,0,2,Software Engineer
+529,STU20260529,6.33,Yes,Yes,Yes,Yes,Yes,Medium,No,5,0,ML Engineer
+530,STU20260530,6.7,No,Yes,Yes,Yes,Yes,Low,Yes,5,2,Full Stack Developer
+531,STU20260531,8.31,Yes,Yes,No,Yes,Yes,Low,Yes,2,5,Data Scientist
+532,STU20260532,6.12,Yes,No,Yes,Yes,No,High,No,0,5,ML Engineer
+533,STU20260533,9.81,Yes,Yes,No,No,Yes,High,Yes,1,4,Full Stack Developer
+534,STU20260534,7.65,Yes,No,Yes,No,Yes,Low,No,0,5,Frontend Developer
+535,STU20260535,6.93,No,Yes,Yes,No,Yes,Medium,Yes,0,2,Full Stack Developer
+536,STU20260536,8.16,Yes,Yes,Yes,No,No,High,No,0,3,Business Analyst
+537,STU20260537,6.15,No,Yes,Yes,Yes,Yes,Low,Yes,4,4,Full Stack Developer
+538,STU20260538,9.94,No,No,No,Yes,Yes,Low,No,3,5,Frontend Developer
+539,STU20260539,7.28,No,No,Yes,No,No,Low,No,3,3,Data Analyst
+540,STU20260540,7.42,No,No,No,No,Yes,Medium,Yes,2,6,Frontend Developer
+541,STU20260541,7.02,Yes,Yes,Yes,Yes,No,Medium,No,5,2,ML Engineer
+542,STU20260542,9.57,Yes,No,Yes,No,Yes,Medium,No,1,5,Frontend Developer
+543,STU20260543,7.0,No,Yes,No,Yes,No,Low,Yes,2,0,Software Engineer
+544,STU20260544,9.19,Yes,Yes,Yes,Yes,Yes,High,No,1,1,Data Scientist
+545,STU20260545,9.36,No,No,No,No,Yes,Medium,No,3,0,Frontend Developer
+546,STU20260546,7.76,No,Yes,No,No,No,Low,Yes,3,3,Software Engineer
+547,STU20260547,9.02,Yes,No,No,Yes,Yes,Low,No,3,2,Data Scientist
+548,STU20260548,6.33,No,No,No,No,No,Low,No,2,6,Data Analyst
+549,STU20260549,7.63,Yes,No,Yes,No,Yes,Low,No,1,4,Frontend Developer
+550,STU20260550,9.62,No,No,Yes,No,No,Low,No,3,1,Data Analyst
+551,STU20260551,8.3,No,Yes,No,Yes,No,Low,Yes,0,2,Software Engineer
+552,STU20260552,7.7,No,Yes,No,Yes,Yes,Low,Yes,2,6,Full Stack Developer
+553,STU20260553,7.76,Yes,No,Yes,No,Yes,High,No,5,5,Frontend Developer
+554,STU20260554,7.02,Yes,No,No,Yes,No,Medium,Yes,0,0,ML Engineer
+555,STU20260555,9.69,No,Yes,Yes,No,No,Medium,Yes,1,4,Software Engineer
+556,STU20260556,8.19,Yes,No,Yes,No,Yes,Medium,Yes,5,4,Frontend Developer
+557,STU20260557,8.74,No,No,No,Yes,No,Medium,Yes,5,3,Data Analyst
+558,STU20260558,8.17,No,No,No,Yes,No,High,No,5,3,Data Analyst
+559,STU20260559,6.67,Yes,No,No,No,Yes,Low,No,1,3,Frontend Developer
+560,STU20260560,6.18,Yes,Yes,Yes,Yes,No,Medium,Yes,0,3,ML Engineer
+561,STU20260561,7.28,Yes,Yes,No,No,Yes,Medium,No,4,1,Full Stack Developer
+562,STU20260562,7.76,No,Yes,No,Yes,No,Medium,No,1,2,Software Engineer
+563,STU20260563,6.87,No,No,Yes,Yes,No,High,No,0,4,Business Analyst
+564,STU20260564,7.23,Yes,No,No,Yes,Yes,Medium,No,2,1,ML Engineer
+565,STU20260565,7.24,Yes,No,No,Yes,Yes,Medium,Yes,0,0,ML Engineer
+566,STU20260566,6.18,Yes,No,No,Yes,Yes,High,Yes,2,6,ML Engineer
+567,STU20260567,9.91,No,Yes,Yes,No,No,High,No,0,6,Business Analyst
+568,STU20260568,8.84,No,No,Yes,No,Yes,Low,Yes,3,3,Frontend Developer
+569,STU20260569,6.83,No,No,No,Yes,Yes,Medium,Yes,1,2,Frontend Developer
+570,STU20260570,8.88,Yes,No,Yes,Yes,Yes,Low,Yes,5,0,Data Scientist
+571,STU20260571,6.55,Yes,No,Yes,Yes,Yes,Low,No,2,4,ML Engineer
+572,STU20260572,9.16,No,No,Yes,No,Yes,Medium,No,0,3,Frontend Developer
+573,STU20260573,9.64,No,Yes,No,Yes,No,Medium,No,5,1,Software Engineer
+574,STU20260574,8.59,No,No,Yes,Yes,No,High,Yes,3,4,Business Analyst
+575,STU20260575,6.61,No,Yes,No,Yes,Yes,Medium,Yes,3,1,Full Stack Developer
+576,STU20260576,8.59,No,No,Yes,No,No,Medium,No,3,3,Data Analyst
+577,STU20260577,7.17,Yes,Yes,No,Yes,Yes,Medium,Yes,4,0,ML Engineer
+578,STU20260578,9.53,Yes,No,Yes,Yes,No,Medium,No,0,5,Data Scientist
+579,STU20260579,8.2,No,Yes,No,Yes,Yes,Medium,No,5,3,Full Stack Developer
+580,STU20260580,8.38,Yes,No,No,Yes,Yes,High,No,3,4,Data Scientist
+581,STU20260581,8.99,No,Yes,No,No,No,Low,Yes,4,1,Software Engineer
+582,STU20260582,8.77,Yes,Yes,No,Yes,No,Medium,No,3,3,Data Scientist
+583,STU20260583,8.25,Yes,No,Yes,No,No,Low,No,3,5,Software Engineer
+584,STU20260584,7.23,Yes,No,Yes,No,Yes,High,No,5,3,Frontend Developer
+585,STU20260585,8.21,Yes,No,Yes,No,No,Medium,No,5,6,Software Engineer
+586,STU20260586,6.14,Yes,No,Yes,No,Yes,Medium,No,5,3,Frontend Developer
+587,STU20260587,7.55,Yes,No,Yes,No,Yes,Medium,Yes,5,0,Frontend Developer
+588,STU20260588,8.78,Yes,No,No,Yes,No,High,Yes,5,1,Data Scientist
+589,STU20260589,9.89,Yes,Yes,Yes,No,Yes,Medium,No,0,5,Full Stack Developer
+590,STU20260590,7.74,No,Yes,Yes,No,Yes,Medium,Yes,3,5,Full Stack Developer
+591,STU20260591,7.86,Yes,Yes,Yes,No,Yes,Medium,No,3,5,Full Stack Developer
+592,STU20260592,6.52,Yes,Yes,Yes,No,No,Medium,No,0,3,Software Engineer
+593,STU20260593,6.25,No,No,Yes,Yes,No,Medium,Yes,2,4,Data Analyst
+594,STU20260594,6.25,No,No,No,No,No,Medium,No,3,2,Data Analyst
+595,STU20260595,8.79,Yes,No,Yes,Yes,Yes,Medium,No,0,1,Data Scientist
+596,STU20260596,6.53,Yes,No,No,Yes,No,Medium,No,1,1,ML Engineer
+597,STU20260597,6.49,No,No,No,No,Yes,High,Yes,4,0,Frontend Developer
+598,STU20260598,9.16,Yes,Yes,Yes,Yes,Yes,Low,No,5,5,Data Scientist
+599,STU20260599,8.49,No,No,No,No,Yes,Medium,No,1,4,Frontend Developer
+600,STU20260600,9.24,Yes,Yes,Yes,No,No,Medium,Yes,1,1,Software Engineer
+601,STU20260601,6.98,No,No,Yes,No,No,High,Yes,1,5,Business Analyst
+602,STU20260602,9.66,No,Yes,Yes,Yes,No,Low,No,0,4,Software Engineer
+603,STU20260603,7.17,Yes,Yes,No,No,Yes,Medium,No,1,5,Full Stack Developer
+604,STU20260604,9.63,Yes,No,No,No,No,Low,No,4,1,Software Engineer
+605,STU20260605,7.04,No,No,No,No,Yes,Medium,No,3,2,Frontend Developer
+606,STU20260606,7.71,Yes,Yes,No,Yes,Yes,Medium,No,0,4,ML Engineer
+607,STU20260607,8.7,Yes,No,No,No,No,Medium,Yes,1,6,Software Engineer
+608,STU20260608,8.94,No,No,No,No,No,Low,No,5,2,Data Analyst
+609,STU20260609,9.32,No,Yes,No,No,Yes,Low,Yes,0,4,Full Stack Developer
+610,STU20260610,7.97,Yes,Yes,Yes,Yes,Yes,Low,Yes,2,2,ML Engineer
+611,STU20260611,7.76,No,No,Yes,Yes,No,Medium,No,5,0,Data Analyst
+612,STU20260612,8.43,Yes,No,Yes,No,Yes,Medium,No,1,1,Frontend Developer
+613,STU20260613,6.13,No,Yes,No,Yes,No,Medium,Yes,4,3,Software Engineer
+614,STU20260614,7.34,No,Yes,Yes,Yes,No,Low,No,1,1,Software Engineer
+615,STU20260615,8.16,Yes,No,No,No,Yes,Medium,No,3,0,Frontend Developer
+616,STU20260616,8.17,No,Yes,Yes,No,No,High,No,0,5,Business Analyst
+617,STU20260617,7.06,Yes,No,No,No,No,Medium,No,4,5,Software Engineer
+618,STU20260618,8.29,Yes,Yes,Yes,No,No,High,No,4,4,Business Analyst
+619,STU20260619,9.37,Yes,No,No,Yes,No,High,No,5,5,Data Scientist
+620,STU20260620,8.36,Yes,Yes,No,No,Yes,Low,No,1,4,Full Stack Developer
+621,STU20260621,9.34,No,Yes,No,Yes,No,Low,No,5,6,Software Engineer
+622,STU20260622,8.43,Yes,Yes,Yes,No,No,High,No,1,3,Business Analyst
+623,STU20260623,7.03,No,No,No,No,No,High,No,5,0,Data Analyst
+624,STU20260624,9.72,Yes,Yes,No,No,No,Medium,No,1,4,Software Engineer
+625,STU20260625,9.72,Yes,Yes,No,Yes,Yes,Low,No,1,0,Data Scientist
+626,STU20260626,7.56,No,Yes,Yes,Yes,No,Low,No,0,0,Software Engineer
+627,STU20260627,7.72,Yes,Yes,No,No,No,Medium,No,4,5,Software Engineer
+628,STU20260628,8.12,No,Yes,Yes,No,No,Low,No,5,2,Software Engineer
+629,STU20260629,7.32,No,No,No,Yes,Yes,Medium,No,5,0,Frontend Developer
+630,STU20260630,6.16,No,No,Yes,No,No,Low,Yes,4,3,Data Analyst
+631,STU20260631,7.53,No,No,No,Yes,Yes,Low,No,1,3,Frontend Developer
+632,STU20260632,7.43,Yes,No,No,Yes,No,High,Yes,0,4,ML Engineer
+633,STU20260633,8.11,Yes,No,No,No,Yes,Low,No,1,4,Frontend Developer
+634,STU20260634,8.23,Yes,No,Yes,Yes,No,Low,No,0,2,Data Scientist
+635,STU20260635,6.87,No,No,No,Yes,Yes,High,No,0,6,Frontend Developer
+636,STU20260636,6.04,No,No,Yes,No,No,High,No,1,6,Business Analyst
+637,STU20260637,6.49,Yes,No,No,No,No,High,Yes,4,0,Software Engineer
+638,STU20260638,7.66,No,Yes,No,Yes,No,Low,No,1,1,Software Engineer
+639,STU20260639,8.09,No,No,Yes,Yes,No,Low,Yes,5,6,Data Analyst
+640,STU20260640,6.16,Yes,Yes,Yes,Yes,Yes,Medium,No,1,4,ML Engineer
+641,STU20260641,6.06,No,Yes,No,No,Yes,Low,Yes,0,0,Full Stack Developer
+642,STU20260642,6.07,No,No,Yes,Yes,No,Low,No,1,4,Data Analyst
+643,STU20260643,9.48,No,Yes,Yes,Yes,Yes,Medium,No,0,2,Full Stack Developer
+644,STU20260644,7.85,No,No,No,No,Yes,Medium,No,5,0,Frontend Developer
+645,STU20260645,9.34,Yes,No,Yes,Yes,Yes,High,Yes,2,6,Data Scientist
+646,STU20260646,8.31,Yes,No,Yes,No,Yes,Low,No,3,3,Frontend Developer
+647,STU20260647,8.8,No,Yes,Yes,Yes,Yes,High,No,1,2,Full Stack Developer
+648,STU20260648,8.97,No,Yes,Yes,Yes,No,High,Yes,1,6,Business Analyst
+649,STU20260649,9.79,Yes,Yes,Yes,No,Yes,Low,Yes,5,1,Full Stack Developer
+650,STU20260650,8.18,Yes,Yes,Yes,Yes,No,Medium,Yes,0,1,Data Scientist
+651,STU20260651,7.26,Yes,No,Yes,No,No,High,Yes,3,5,Business Analyst
+652,STU20260652,7.24,Yes,No,No,Yes,No,High,No,1,1,ML Engineer
+653,STU20260653,7.6,Yes,No,Yes,Yes,No,High,Yes,4,0,ML Engineer
+654,STU20260654,7.37,Yes,No,Yes,No,No,High,Yes,2,6,Business Analyst
+655,STU20260655,6.93,Yes,No,Yes,Yes,Yes,Low,Yes,3,1,ML Engineer
+656,STU20260656,6.57,No,No,Yes,No,No,Medium,No,1,5,Data Analyst
+657,STU20260657,8.87,Yes,Yes,No,No,No,Low,Yes,1,2,Software Engineer
+658,STU20260658,9.34,No,No,Yes,Yes,No,Low,No,2,0,Data Analyst
+659,STU20260659,9.0,Yes,No,Yes,Yes,No,Low,No,4,0,Data Scientist
+660,STU20260660,9.02,No,No,No,Yes,No,Medium,Yes,1,4,Data Analyst
+661,STU20260661,7.14,No,Yes,Yes,Yes,No,Low,Yes,1,4,Software Engineer
+662,STU20260662,9.83,No,Yes,Yes,No,No,High,Yes,5,6,Business Analyst
+663,STU20260663,9.46,No,No,Yes,Yes,Yes,High,No,0,0,Frontend Developer
+664,STU20260664,8.88,No,Yes,No,No,Yes,Medium,Yes,1,5,Full Stack Developer
+665,STU20260665,9.74,No,Yes,Yes,Yes,No,Low,No,0,5,Software Engineer
+666,STU20260666,9.07,Yes,Yes,No,No,Yes,Medium,No,4,3,Full Stack Developer
+667,STU20260667,9.72,Yes,Yes,No,No,Yes,Low,No,2,6,Full Stack Developer
+668,STU20260668,8.21,Yes,Yes,No,No,No,High,No,3,5,Software Engineer
+669,STU20260669,7.57,Yes,No,No,No,Yes,Medium,No,4,1,Frontend Developer
+670,STU20260670,8.31,No,No,No,Yes,No,Low,Yes,0,5,Data Analyst
+671,STU20260671,9.66,No,Yes,No,No,Yes,Medium,No,1,2,Full Stack Developer
+672,STU20260672,6.22,Yes,Yes,No,Yes,Yes,Low,No,3,3,ML Engineer
+673,STU20260673,6.66,Yes,Yes,No,Yes,Yes,High,No,1,4,ML Engineer
+674,STU20260674,8.9,Yes,Yes,No,No,No,High,Yes,1,6,Software Engineer
+675,STU20260675,8.04,No,Yes,Yes,Yes,No,Low,Yes,1,0,Software Engineer
+676,STU20260676,6.08,No,Yes,No,No,No,Medium,Yes,5,1,Software Engineer
+677,STU20260677,8.16,Yes,Yes,Yes,No,Yes,Medium,No,4,2,Full Stack Developer
+678,STU20260678,9.34,Yes,Yes,No,Yes,Yes,Low,Yes,2,3,Data Scientist
+679,STU20260679,9.68,Yes,Yes,No,Yes,Yes,High,No,4,2,Data Scientist
+680,STU20260680,6.49,Yes,No,Yes,No,No,High,No,5,6,Business Analyst
+681,STU20260681,7.51,Yes,Yes,Yes,Yes,No,Medium,No,1,4,ML Engineer
+682,STU20260682,9.43,Yes,Yes,Yes,Yes,No,High,Yes,4,3,Data Scientist
+683,STU20260683,9.33,Yes,Yes,Yes,Yes,No,Low,Yes,5,3,Data Scientist
+684,STU20260684,7.54,No,Yes,No,Yes,No,High,Yes,3,6,Software Engineer
+685,STU20260685,6.71,No,No,No,No,Yes,High,Yes,4,6,Frontend Developer
+686,STU20260686,8.62,No,Yes,Yes,Yes,No,High,No,0,0,Business Analyst
+687,STU20260687,9.78,Yes,No,No,No,No,High,Yes,4,0,Software Engineer
+688,STU20260688,8.92,Yes,No,No,Yes,Yes,Low,Yes,3,4,Data Scientist
+689,STU20260689,6.77,Yes,No,No,Yes,No,High,No,3,6,ML Engineer
+690,STU20260690,9.16,No,Yes,Yes,Yes,Yes,Medium,No,0,2,Full Stack Developer
+691,STU20260691,8.65,No,No,Yes,No,Yes,High,Yes,2,5,Frontend Developer
+692,STU20260692,8.31,Yes,No,No,Yes,Yes,Medium,Yes,5,6,Data Scientist
+693,STU20260693,6.2,No,Yes,Yes,Yes,No,Medium,Yes,3,1,Software Engineer
+694,STU20260694,7.07,No,Yes,No,No,Yes,Medium,No,0,3,Full Stack Developer
+695,STU20260695,7.78,No,No,Yes,No,Yes,Medium,No,1,3,Frontend Developer
+696,STU20260696,9.89,No,Yes,Yes,Yes,Yes,High,Yes,3,2,Full Stack Developer
+697,STU20260697,7.01,No,Yes,No,Yes,No,High,No,0,6,Software Engineer
+698,STU20260698,7.33,No,Yes,No,No,Yes,Low,Yes,2,5,Full Stack Developer
+699,STU20260699,9.95,Yes,No,Yes,No,Yes,Medium,No,0,6,Frontend Developer
+700,STU20260700,8.27,Yes,No,Yes,Yes,No,Low,No,2,4,Data Scientist
+701,STU20260701,9.4,Yes,Yes,No,No,Yes,Medium,No,0,4,Full Stack Developer
+702,STU20260702,7.81,Yes,No,Yes,Yes,Yes,Low,No,2,0,ML Engineer
+703,STU20260703,8.98,Yes,No,Yes,Yes,Yes,Low,Yes,0,4,Data Scientist
+704,STU20260704,9.17,No,Yes,No,No,Yes,High,Yes,4,2,Full Stack Developer
+705,STU20260705,9.11,No,Yes,No,No,No,High,No,5,4,Software Engineer
+706,STU20260706,7.58,No,No,Yes,Yes,No,Medium,Yes,3,3,Data Analyst
+707,STU20260707,7.67,Yes,No,No,No,No,Medium,Yes,4,1,Software Engineer
+708,STU20260708,7.75,Yes,No,Yes,No,No,Medium,Yes,3,3,Software Engineer
+709,STU20260709,9.25,Yes,No,No,Yes,No,Low,No,5,5,Data Scientist
+710,STU20260710,6.78,Yes,Yes,Yes,Yes,No,Medium,No,2,5,ML Engineer
+711,STU20260711,7.34,Yes,No,Yes,Yes,Yes,Medium,No,2,0,ML Engineer
+712,STU20260712,7.91,Yes,Yes,No,No,Yes,Medium,No,2,0,Full Stack Developer
+713,STU20260713,9.43,Yes,No,Yes,Yes,No,High,No,5,3,Data Scientist
+714,STU20260714,9.63,No,No,No,Yes,Yes,High,Yes,2,2,Frontend Developer
+715,STU20260715,6.81,No,Yes,Yes,No,Yes,Low,Yes,3,3,Full Stack Developer
+716,STU20260716,7.08,Yes,Yes,No,No,Yes,Low,No,2,1,Full Stack Developer
+717,STU20260717,9.49,Yes,No,Yes,Yes,Yes,Medium,Yes,1,2,Data Scientist
+718,STU20260718,8.35,No,No,No,Yes,No,Low,Yes,1,6,Data Analyst
+719,STU20260719,9.6,Yes,Yes,Yes,No,No,Medium,No,5,6,Software Engineer
+720,STU20260720,9.25,No,Yes,No,Yes,Yes,Low,Yes,0,4,Full Stack Developer
+721,STU20260721,9.09,No,Yes,Yes,No,No,High,Yes,4,0,Business Analyst
+722,STU20260722,8.89,No,Yes,No,No,Yes,High,Yes,0,2,Full Stack Developer
+723,STU20260723,7.13,No,No,No,No,Yes,Low,No,4,6,Frontend Developer
+724,STU20260724,7.02,No,Yes,No,No,No,High,Yes,5,0,Software Engineer
+725,STU20260725,7.87,No,No,Yes,Yes,No,High,No,2,6,Business Analyst
+726,STU20260726,9.12,No,No,No,No,No,High,Yes,4,2,Data Analyst
+727,STU20260727,7.08,No,No,Yes,No,No,High,No,0,1,Business Analyst
+728,STU20260728,8.86,No,Yes,Yes,Yes,No,Medium,No,1,3,Software Engineer
+729,STU20260729,8.92,No,No,Yes,No,No,Medium,Yes,4,1,Data Analyst
+730,STU20260730,6.96,No,Yes,No,Yes,Yes,Low,No,0,5,Full Stack Developer
+731,STU20260731,9.5,No,No,Yes,Yes,No,Low,No,2,6,Data Analyst
+732,STU20260732,7.18,Yes,No,No,Yes,Yes,Medium,No,2,5,ML Engineer
+733,STU20260733,8.89,No,No,No,Yes,Yes,Low,No,3,2,Frontend Developer
+734,STU20260734,6.99,No,Yes,Yes,Yes,No,High,Yes,3,0,Business Analyst
+735,STU20260735,8.37,Yes,No,No,Yes,Yes,Medium,Yes,0,0,Data Scientist
+736,STU20260736,9.33,No,No,Yes,No,Yes,Low,Yes,1,5,Frontend Developer
+737,STU20260737,9.18,No,No,Yes,No,Yes,Medium,No,0,2,Frontend Developer
+738,STU20260738,9.02,Yes,No,Yes,No,Yes,High,No,3,4,Frontend Developer
+739,STU20260739,7.36,No,Yes,Yes,No,No,High,No,1,6,Business Analyst
+740,STU20260740,6.87,No,No,No,Yes,No,Medium,No,5,3,Data Analyst
+741,STU20260741,9.09,Yes,Yes,Yes,No,Yes,Medium,Yes,4,6,Full Stack Developer
+742,STU20260742,8.56,Yes,Yes,Yes,No,No,Medium,Yes,1,4,Software Engineer
+743,STU20260743,7.67,Yes,Yes,Yes,No,Yes,Medium,Yes,5,1,Full Stack Developer
+744,STU20260744,8.27,No,Yes,Yes,No,No,High,No,2,0,Business Analyst
+745,STU20260745,6.99,No,No,No,No,Yes,High,No,4,6,Frontend Developer
+746,STU20260746,9.41,No,No,No,Yes,No,Medium,Yes,4,6,Data Analyst
+747,STU20260747,6.92,No,No,Yes,No,No,Low,No,1,2,Data Analyst
+748,STU20260748,8.4,No,Yes,No,No,Yes,Medium,Yes,4,3,Full Stack Developer
+749,STU20260749,9.06,No,No,No,No,Yes,Low,Yes,5,4,Frontend Developer
+750,STU20260750,7.3,No,No,Yes,Yes,Yes,Low,Yes,0,3,Frontend Developer
+751,STU20260751,7.97,Yes,No,Yes,Yes,Yes,Low,No,2,6,ML Engineer
+752,STU20260752,7.26,Yes,Yes,Yes,No,No,High,Yes,1,3,Business Analyst
+753,STU20260753,9.57,Yes,No,Yes,No,No,Medium,Yes,4,2,Software Engineer
+754,STU20260754,7.02,Yes,No,Yes,Yes,Yes,High,Yes,2,5,ML Engineer
+755,STU20260755,8.12,Yes,Yes,Yes,No,Yes,Medium,Yes,4,2,Full Stack Developer
+756,STU20260756,9.69,No,No,No,No,No,Medium,Yes,0,6,Data Analyst
+757,STU20260757,8.57,Yes,No,No,Yes,No,Low,No,0,5,Data Scientist
+758,STU20260758,8.24,No,Yes,No,Yes,No,Low,Yes,0,6,Software Engineer
+759,STU20260759,8.19,No,Yes,No,Yes,Yes,Medium,Yes,4,4,Full Stack Developer
+760,STU20260760,8.67,Yes,Yes,No,No,No,Medium,No,2,3,Software Engineer
+761,STU20260761,8.6,Yes,Yes,No,Yes,No,Medium,No,0,5,Data Scientist
+762,STU20260762,6.65,Yes,Yes,Yes,No,Yes,Low,No,2,4,Full Stack Developer
+763,STU20260763,7.79,No,No,Yes,No,Yes,Low,No,3,2,Frontend Developer
+764,STU20260764,8.16,No,Yes,Yes,No,Yes,Medium,Yes,0,3,Full Stack Developer
+765,STU20260765,8.85,No,No,No,Yes,Yes,Medium,No,5,6,Frontend Developer
+766,STU20260766,9.65,Yes,Yes,Yes,No,No,High,Yes,0,5,Business Analyst
+767,STU20260767,9.28,No,Yes,No,No,No,Low,No,3,3,Software Engineer
+768,STU20260768,9.65,No,Yes,No,Yes,Yes,Low,No,0,3,Full Stack Developer
+769,STU20260769,8.78,No,Yes,No,No,Yes,High,Yes,0,0,Full Stack Developer
+770,STU20260770,9.7,No,Yes,No,No,No,Low,No,5,3,Software Engineer
+771,STU20260771,6.63,No,No,No,No,Yes,Low,Yes,3,4,Frontend Developer
+772,STU20260772,8.61,No,Yes,No,No,Yes,High,No,5,4,Full Stack Developer
+773,STU20260773,6.82,No,No,No,No,No,High,No,1,1,Data Analyst
+774,STU20260774,6.45,Yes,Yes,Yes,No,Yes,Low,Yes,1,4,Full Stack Developer
+775,STU20260775,6.5,Yes,No,Yes,No,Yes,High,No,1,3,Frontend Developer
+776,STU20260776,7.48,Yes,No,Yes,Yes,No,Low,Yes,1,5,ML Engineer
+777,STU20260777,9.91,No,No,Yes,No,No,High,Yes,5,6,Business Analyst
+778,STU20260778,9.02,No,Yes,No,No,No,Low,Yes,2,4,Software Engineer
+779,STU20260779,6.22,No,Yes,No,No,Yes,Medium,No,4,3,Full Stack Developer
+780,STU20260780,6.8,No,No,Yes,Yes,No,Medium,Yes,4,0,Data Analyst
+781,STU20260781,9.77,Yes,Yes,Yes,Yes,Yes,High,No,3,0,Data Scientist
+782,STU20260782,6.92,No,No,No,Yes,No,Low,Yes,3,3,Data Analyst
+783,STU20260783,8.45,No,No,No,No,No,Medium,Yes,0,1,Data Analyst
+784,STU20260784,9.99,No,No,No,Yes,Yes,High,Yes,0,4,Frontend Developer
+785,STU20260785,8.78,Yes,No,Yes,Yes,Yes,Medium,No,5,6,Data Scientist
+786,STU20260786,8.74,No,No,No,Yes,Yes,Low,No,4,2,Frontend Developer
+787,STU20260787,7.27,Yes,No,No,No,Yes,Medium,No,4,3,Frontend Developer
+788,STU20260788,6.97,No,No,No,No,Yes,High,Yes,1,4,Frontend Developer
+789,STU20260789,9.37,No,Yes,No,No,Yes,Low,Yes,0,3,Full Stack Developer
+790,STU20260790,6.8,No,No,No,No,No,High,No,5,2,Data Analyst
+791,STU20260791,7.56,Yes,No,No,No,No,Low,No,3,6,Software Engineer
+792,STU20260792,6.14,No,Yes,No,Yes,No,Medium,Yes,0,1,Software Engineer
+793,STU20260793,7.12,No,Yes,Yes,No,No,High,No,2,5,Business Analyst
+794,STU20260794,6.23,Yes,No,No,Yes,Yes,Low,Yes,5,6,ML Engineer
+795,STU20260795,7.05,Yes,Yes,No,Yes,Yes,High,No,2,0,ML Engineer
+796,STU20260796,7.12,Yes,Yes,Yes,Yes,Yes,High,No,5,3,ML Engineer
+797,STU20260797,7.36,Yes,No,No,No,No,Low,Yes,3,1,Software Engineer
+798,STU20260798,7.28,No,No,Yes,No,Yes,Medium,Yes,4,1,Frontend Developer
+799,STU20260799,6.03,No,No,No,No,Yes,Low,No,5,6,Frontend Developer
+800,STU20260800,8.09,No,Yes,No,Yes,No,Low,Yes,4,5,Software Engineer
+801,STU20260801,7.9,No,No,Yes,No,Yes,Medium,No,4,6,Frontend Developer
+802,STU20260802,6.75,No,No,Yes,No,Yes,Medium,No,3,1,Frontend Developer
+803,STU20260803,9.5,Yes,Yes,Yes,Yes,Yes,Medium,Yes,2,6,Data Scientist
+804,STU20260804,6.22,No,No,No,Yes,No,Low,Yes,1,5,Data Analyst
+805,STU20260805,6.27,No,No,Yes,Yes,Yes,High,No,0,6,Frontend Developer
+806,STU20260806,6.1,Yes,Yes,No,No,No,Low,No,3,0,Software Engineer
+807,STU20260807,7.33,No,Yes,No,No,Yes,Medium,No,1,0,Full Stack Developer
+808,STU20260808,9.31,No,No,No,No,Yes,Low,No,4,0,Frontend Developer
+809,STU20260809,7.9,No,Yes,Yes,No,Yes,Medium,Yes,3,6,Full Stack Developer
+810,STU20260810,8.49,No,Yes,No,Yes,Yes,High,Yes,2,3,Full Stack Developer
+811,STU20260811,9.14,No,No,No,Yes,No,Low,No,4,2,Data Analyst
+812,STU20260812,8.33,No,Yes,Yes,Yes,No,Low,No,1,3,Software Engineer
+813,STU20260813,9.62,No,Yes,Yes,Yes,No,Low,No,0,5,Software Engineer
+814,STU20260814,9.7,No,No,No,No,No,Low,Yes,1,6,Data Analyst
+815,STU20260815,9.16,Yes,No,Yes,No,No,Medium,No,3,0,Software Engineer
+816,STU20260816,8.55,No,No,Yes,Yes,Yes,High,Yes,0,4,Frontend Developer
+817,STU20260817,9.43,Yes,No,Yes,No,No,Low,Yes,1,2,Software Engineer
+818,STU20260818,6.39,No,Yes,Yes,Yes,No,Low,Yes,5,3,Software Engineer
+819,STU20260819,9.16,Yes,No,No,Yes,No,Medium,Yes,4,3,Data Scientist
+820,STU20260820,7.84,No,No,Yes,No,No,High,Yes,5,0,Business Analyst
+821,STU20260821,6.91,Yes,No,No,No,No,High,Yes,3,5,Software Engineer
+822,STU20260822,7.42,No,No,No,Yes,No,High,Yes,1,1,Data Analyst
+823,STU20260823,7.69,Yes,Yes,Yes,No,Yes,Medium,No,4,5,Full Stack Developer
+824,STU20260824,9.76,No,No,Yes,Yes,No,Medium,No,0,2,Data Analyst
+825,STU20260825,8.53,Yes,No,No,Yes,Yes,Medium,No,2,6,Data Scientist
+826,STU20260826,6.96,No,No,Yes,Yes,Yes,Medium,Yes,0,4,Frontend Developer
+827,STU20260827,6.4,Yes,No,No,Yes,Yes,Medium,Yes,5,5,ML Engineer
+828,STU20260828,8.26,Yes,Yes,Yes,No,No,Medium,No,4,6,Software Engineer
+829,STU20260829,9.85,No,Yes,No,Yes,Yes,Low,No,5,0,Full Stack Developer
+830,STU20260830,6.96,No,No,Yes,Yes,No,Low,No,5,6,Data Analyst
+831,STU20260831,9.4,Yes,Yes,Yes,Yes,Yes,High,No,5,4,Data Scientist
+832,STU20260832,7.52,Yes,Yes,No,No,Yes,High,Yes,4,5,Full Stack Developer
+833,STU20260833,6.2,Yes,Yes,Yes,No,Yes,Low,Yes,1,5,Full Stack Developer
+834,STU20260834,6.54,Yes,Yes,Yes,No,No,High,Yes,5,1,Business Analyst
+835,STU20260835,7.12,No,No,No,Yes,No,Medium,Yes,5,3,Data Analyst
+836,STU20260836,8.76,No,No,No,No,Yes,High,No,2,0,Frontend Developer
+837,STU20260837,6.33,Yes,No,Yes,Yes,Yes,Medium,Yes,3,0,ML Engineer
+838,STU20260838,8.6,Yes,Yes,No,No,No,High,Yes,2,0,Software Engineer
+839,STU20260839,7.81,No,No,No,No,Yes,Medium,No,4,6,Frontend Developer
+840,STU20260840,9.44,Yes,Yes,Yes,Yes,Yes,High,Yes,5,4,Data Scientist
+841,STU20260841,7.66,No,Yes,Yes,Yes,No,High,No,2,0,Business Analyst
+842,STU20260842,7.27,No,No,Yes,Yes,Yes,Medium,No,3,4,Frontend Developer
+843,STU20260843,7.99,Yes,Yes,Yes,Yes,Yes,Low,No,0,3,ML Engineer
+844,STU20260844,9.15,No,No,Yes,No,Yes,Medium,No,1,2,Frontend Developer
+845,STU20260845,7.14,Yes,Yes,Yes,Yes,Yes,High,Yes,0,2,ML Engineer
+846,STU20260846,7.81,No,No,No,Yes,No,Medium,No,3,2,Data Analyst
+847,STU20260847,6.51,Yes,No,No,No,Yes,Medium,No,3,4,Frontend Developer
+848,STU20260848,7.53,No,Yes,No,No,Yes,High,No,5,6,Full Stack Developer
+849,STU20260849,6.25,No,No,No,No,Yes,Low,Yes,2,1,Frontend Developer
+850,STU20260850,9.8,Yes,No,Yes,No,No,Low,No,2,6,Software Engineer
+851,STU20260851,6.09,No,No,Yes,Yes,Yes,Medium,Yes,3,1,Frontend Developer
+852,STU20260852,9.17,No,No,Yes,Yes,No,High,Yes,3,1,Business Analyst
+853,STU20260853,6.78,No,No,No,No,No,Medium,No,2,1,Data Analyst
+854,STU20260854,9.01,No,No,No,Yes,Yes,Medium,Yes,2,4,Frontend Developer
+855,STU20260855,6.17,Yes,No,No,No,No,Low,Yes,0,4,Software Engineer
+856,STU20260856,9.8,No,No,Yes,No,Yes,Medium,Yes,3,2,Frontend Developer
+857,STU20260857,6.7,No,Yes,No,No,Yes,Low,No,1,1,Full Stack Developer
+858,STU20260858,6.18,No,Yes,Yes,No,Yes,Low,No,0,4,Full Stack Developer
+859,STU20260859,7.74,No,No,Yes,Yes,Yes,Low,Yes,2,1,Frontend Developer
+860,STU20260860,6.27,No,Yes,Yes,Yes,No,Medium,No,2,3,Software Engineer
+861,STU20260861,8.05,No,Yes,Yes,Yes,No,Low,No,0,6,Software Engineer
+862,STU20260862,6.81,Yes,Yes,No,Yes,No,High,No,4,5,ML Engineer
+863,STU20260863,9.7,No,No,Yes,Yes,Yes,Medium,No,1,2,Frontend Developer
+864,STU20260864,7.72,No,Yes,No,No,No,Medium,No,3,2,Software Engineer
+865,STU20260865,9.11,No,Yes,No,Yes,No,Medium,No,4,1,Software Engineer
+866,STU20260866,7.47,Yes,No,Yes,No,Yes,Medium,No,4,2,Frontend Developer
+867,STU20260867,7.13,No,No,Yes,Yes,Yes,Medium,No,1,6,Frontend Developer
+868,STU20260868,8.85,No,Yes,No,Yes,No,Medium,No,5,4,Software Engineer
+869,STU20260869,7.91,Yes,Yes,Yes,Yes,No,Medium,Yes,0,4,ML Engineer
+870,STU20260870,7.3,No,No,Yes,Yes,Yes,Medium,No,2,0,Frontend Developer
+871,STU20260871,6.59,No,No,No,No,No,Medium,No,1,5,Data Analyst
+872,STU20260872,7.66,No,No,Yes,Yes,No,Low,No,0,6,Data Analyst
+873,STU20260873,8.83,Yes,No,Yes,No,No,Low,No,0,0,Software Engineer
+874,STU20260874,8.82,Yes,Yes,Yes,No,Yes,Low,No,1,4,Full Stack Developer
+875,STU20260875,7.87,No,Yes,No,No,Yes,Low,Yes,3,6,Full Stack Developer
+876,STU20260876,8.79,Yes,No,Yes,No,No,Low,Yes,3,5,Software Engineer
+877,STU20260877,7.56,Yes,Yes,Yes,Yes,Yes,Low,No,5,2,ML Engineer
+878,STU20260878,9.65,Yes,Yes,No,Yes,No,High,No,3,1,Data Scientist
+879,STU20260879,9.16,Yes,Yes,Yes,No,No,Low,Yes,4,1,Software Engineer
+880,STU20260880,7.0,No,No,Yes,Yes,Yes,Low,Yes,4,0,Frontend Developer
+881,STU20260881,8.48,Yes,No,No,Yes,Yes,Low,No,2,5,Data Scientist
+882,STU20260882,7.22,Yes,No,No,Yes,Yes,High,No,3,0,ML Engineer
+883,STU20260883,7.32,No,Yes,Yes,Yes,Yes,Medium,No,2,5,Full Stack Developer
+884,STU20260884,6.51,No,No,No,Yes,Yes,High,Yes,4,1,Frontend Developer
+885,STU20260885,6.34,Yes,Yes,Yes,No,Yes,High,Yes,4,1,Full Stack Developer
+886,STU20260886,8.08,Yes,Yes,No,Yes,No,Low,Yes,0,3,Data Scientist
+887,STU20260887,8.09,No,Yes,No,Yes,No,Low,Yes,1,1,Software Engineer
+888,STU20260888,6.39,Yes,Yes,Yes,Yes,Yes,Medium,Yes,2,4,ML Engineer
+889,STU20260889,9.4,Yes,Yes,No,No,Yes,Medium,No,0,6,Full Stack Developer
+890,STU20260890,7.18,Yes,No,Yes,No,No,Low,No,3,6,Software Engineer
+891,STU20260891,8.11,No,Yes,Yes,Yes,No,High,No,3,0,Business Analyst
+892,STU20260892,9.96,Yes,Yes,Yes,Yes,Yes,Medium,No,2,1,Data Scientist
+893,STU20260893,9.39,Yes,Yes,No,No,Yes,High,Yes,1,1,Full Stack Developer
+894,STU20260894,7.35,No,No,Yes,No,Yes,High,Yes,2,2,Frontend Developer
+895,STU20260895,9.58,Yes,Yes,No,Yes,No,High,Yes,3,5,Data Scientist
+896,STU20260896,6.71,Yes,No,Yes,No,No,Low,Yes,1,0,Software Engineer
+897,STU20260897,7.03,Yes,Yes,No,Yes,No,High,No,0,0,ML Engineer
+898,STU20260898,7.29,No,Yes,Yes,No,No,High,No,4,4,Business Analyst
+899,STU20260899,8.23,Yes,Yes,No,Yes,Yes,High,Yes,3,0,Data Scientist
+900,STU20260900,9.82,Yes,Yes,Yes,Yes,No,Low,No,0,5,Data Scientist
+901,STU20260901,8.02,No,No,Yes,No,No,Low,No,0,6,Data Analyst
+902,STU20260902,7.37,Yes,No,No,No,No,Low,No,5,1,Software Engineer
+903,STU20260903,6.97,Yes,No,Yes,No,Yes,Low,No,4,0,Frontend Developer
+904,STU20260904,9.17,No,No,Yes,No,No,Medium,No,0,3,Data Analyst
+905,STU20260905,8.54,No,Yes,Yes,No,No,Low,No,1,6,Software Engineer
+906,STU20260906,7.09,Yes,Yes,Yes,Yes,Yes,High,Yes,1,3,ML Engineer
+907,STU20260907,9.07,Yes,No,No,Yes,Yes,High,Yes,5,4,Data Scientist
+908,STU20260908,8.58,Yes,Yes,No,No,No,Medium,No,3,3,Software Engineer
+909,STU20260909,6.08,Yes,No,Yes,No,No,High,No,3,0,Business Analyst
+910,STU20260910,6.07,No,No,No,No,Yes,Low,No,0,4,Frontend Developer
+911,STU20260911,9.37,Yes,No,No,Yes,No,High,No,3,4,Data Scientist
+912,STU20260912,8.38,Yes,No,Yes,No,No,Medium,No,0,5,Software Engineer
+913,STU20260913,9.83,No,Yes,Yes,No,No,Low,Yes,3,2,Software Engineer
+914,STU20260914,9.14,Yes,Yes,No,Yes,Yes,Low,No,0,2,Data Scientist
+915,STU20260915,9.41,No,No,Yes,No,No,Low,No,1,5,Data Analyst
+916,STU20260916,8.18,Yes,Yes,No,Yes,Yes,High,No,0,6,Data Scientist
+917,STU20260917,6.49,No,No,No,Yes,No,Low,No,0,4,Data Analyst
+918,STU20260918,6.78,No,Yes,Yes,No,No,Low,Yes,3,3,Software Engineer
+919,STU20260919,6.96,Yes,Yes,Yes,Yes,No,High,No,2,0,ML Engineer
+920,STU20260920,7.09,Yes,Yes,No,No,Yes,Medium,Yes,0,0,Full Stack Developer
+921,STU20260921,8.14,Yes,Yes,No,No,No,Medium,Yes,0,2,Software Engineer
+922,STU20260922,8.63,Yes,No,Yes,Yes,No,High,Yes,1,5,Data Scientist
+923,STU20260923,8.71,No,Yes,No,No,Yes,High,Yes,1,5,Full Stack Developer
+924,STU20260924,7.02,Yes,No,Yes,Yes,No,Low,Yes,2,1,ML Engineer
+925,STU20260925,9.41,Yes,No,No,Yes,Yes,Low,Yes,0,3,Data Scientist
+926,STU20260926,8.34,Yes,Yes,No,No,No,High,Yes,2,2,Software Engineer
+927,STU20260927,8.69,Yes,Yes,No,Yes,No,High,No,5,4,Data Scientist
+928,STU20260928,6.69,Yes,Yes,Yes,No,No,High,No,3,2,Business Analyst
+929,STU20260929,9.02,No,Yes,No,Yes,No,Medium,No,2,1,Software Engineer
+930,STU20260930,9.77,No,Yes,Yes,Yes,Yes,High,Yes,2,3,Full Stack Developer
+931,STU20260931,8.54,No,Yes,Yes,Yes,Yes,Medium,No,5,6,Full Stack Developer
+932,STU20260932,9.39,No,No,Yes,No,No,Low,No,3,5,Data Analyst
+933,STU20260933,6.21,No,Yes,Yes,No,Yes,Low,Yes,5,6,Full Stack Developer
+934,STU20260934,6.71,Yes,No,Yes,Yes,No,High,Yes,3,3,ML Engineer
+935,STU20260935,6.39,No,Yes,Yes,Yes,No,Low,Yes,5,5,Software Engineer
+936,STU20260936,9.87,Yes,Yes,No,No,No,Medium,No,3,2,Software Engineer
+937,STU20260937,7.67,Yes,No,No,Yes,No,Medium,No,5,1,ML Engineer
+938,STU20260938,9.71,No,No,No,Yes,Yes,Low,Yes,3,1,Frontend Developer
+939,STU20260939,8.82,No,Yes,Yes,No,No,High,Yes,5,5,Business Analyst
+940,STU20260940,8.96,Yes,No,No,Yes,Yes,Medium,No,2,2,Data Scientist
+941,STU20260941,7.46,No,Yes,No,Yes,Yes,High,Yes,3,3,Full Stack Developer
+942,STU20260942,7.03,No,No,Yes,No,Yes,Medium,Yes,1,1,Frontend Developer
+943,STU20260943,9.94,No,Yes,Yes,No,No,High,Yes,4,2,Business Analyst
+944,STU20260944,8.01,Yes,No,Yes,No,Yes,Medium,Yes,4,6,Frontend Developer
+945,STU20260945,7.91,No,No,Yes,No,No,Low,Yes,3,3,Data Analyst
+946,STU20260946,9.79,Yes,Yes,No,Yes,Yes,Low,Yes,4,6,Data Scientist
+947,STU20260947,9.59,Yes,No,No,No,Yes,Medium,Yes,1,3,Frontend Developer
+948,STU20260948,7.67,No,Yes,Yes,Yes,No,High,Yes,5,5,Business Analyst
+949,STU20260949,6.78,No,No,No,Yes,No,High,No,0,6,Data Analyst
+950,STU20260950,7.76,No,Yes,Yes,No,Yes,High,No,1,2,Full Stack Developer
+951,STU20260951,7.18,No,No,No,No,No,Medium,No,5,5,Data Analyst
+952,STU20260952,6.19,No,Yes,No,No,Yes,High,No,5,5,Full Stack Developer
+953,STU20260953,7.39,Yes,No,No,Yes,Yes,High,No,4,1,ML Engineer
+954,STU20260954,8.81,Yes,Yes,No,No,Yes,High,No,3,6,Full Stack Developer
+955,STU20260955,7.38,No,No,Yes,No,No,Low,Yes,3,5,Data Analyst
+956,STU20260956,6.8,Yes,Yes,No,Yes,No,Low,Yes,1,1,ML Engineer
+957,STU20260957,6.07,No,Yes,Yes,Yes,Yes,Medium,Yes,2,0,Full Stack Developer
+958,STU20260958,7.11,No,Yes,Yes,Yes,No,Medium,No,0,3,Software Engineer
+959,STU20260959,7.37,Yes,No,Yes,Yes,No,High,No,2,3,ML Engineer
+960,STU20260960,6.86,Yes,Yes,Yes,Yes,Yes,High,No,5,2,ML Engineer
+961,STU20260961,8.47,No,Yes,Yes,Yes,No,High,Yes,0,6,Business Analyst
+962,STU20260962,7.11,No,No,No,No,Yes,High,Yes,0,4,Frontend Developer
+963,STU20260963,9.51,Yes,Yes,Yes,Yes,Yes,Low,Yes,1,5,Data Scientist
+964,STU20260964,9.92,Yes,No,Yes,Yes,No,Medium,Yes,5,6,Data Scientist
+965,STU20260965,8.64,No,Yes,No,No,No,Medium,No,0,4,Software Engineer
+966,STU20260966,7.7,Yes,Yes,No,No,Yes,Medium,Yes,2,2,Full Stack Developer
+967,STU20260967,6.88,Yes,Yes,Yes,No,Yes,High,No,2,1,Full Stack Developer
+968,STU20260968,7.18,Yes,No,Yes,Yes,Yes,High,No,0,2,ML Engineer
+969,STU20260969,6.12,No,No,Yes,No,Yes,High,Yes,5,4,Frontend Developer
+970,STU20260970,8.69,No,No,No,Yes,No,Low,No,5,0,Data Analyst
+971,STU20260971,9.27,No,No,Yes,No,No,Medium,No,2,6,Data Analyst
+972,STU20260972,6.04,Yes,No,No,No,Yes,Low,No,2,2,Frontend Developer
+973,STU20260973,6.51,Yes,Yes,No,Yes,No,High,No,4,3,ML Engineer
+974,STU20260974,8.15,Yes,Yes,Yes,Yes,No,High,No,2,0,Data Scientist
+975,STU20260975,7.5,No,No,No,No,Yes,Medium,Yes,1,5,Frontend Developer
+976,STU20260976,9.16,Yes,No,Yes,No,No,High,Yes,4,0,Business Analyst
+977,STU20260977,7.86,Yes,No,Yes,No,No,High,No,5,2,Business Analyst
+978,STU20260978,6.5,No,Yes,No,No,Yes,High,Yes,5,1,Full Stack Developer
+979,STU20260979,9.21,Yes,No,Yes,Yes,No,Medium,No,1,4,Data Scientist
+980,STU20260980,6.39,No,No,Yes,No,No,Medium,No,1,0,Data Analyst
+981,STU20260981,8.75,No,No,Yes,No,No,High,Yes,1,5,Business Analyst
+982,STU20260982,8.36,No,No,Yes,No,No,Medium,Yes,5,6,Data Analyst
+983,STU20260983,6.16,No,Yes,Yes,Yes,No,Low,Yes,3,1,Software Engineer
+984,STU20260984,6.9,No,No,Yes,Yes,Yes,Medium,No,2,5,Frontend Developer
+985,STU20260985,6.19,No,No,No,Yes,Yes,High,Yes,1,4,Frontend Developer
+986,STU20260986,7.44,No,No,No,No,Yes,High,Yes,4,3,Frontend Developer
+987,STU20260987,8.91,Yes,No,Yes,Yes,No,Medium,No,4,1,Data Scientist
+988,STU20260988,8.83,Yes,Yes,Yes,No,Yes,High,No,3,4,Full Stack Developer
+989,STU20260989,9.69,Yes,Yes,No,Yes,No,High,No,0,2,Data Scientist
+990,STU20260990,7.58,Yes,No,Yes,No,No,Medium,No,4,2,Software Engineer
+991,STU20260991,9.06,Yes,Yes,Yes,Yes,No,High,No,4,6,Data Scientist
+992,STU20260992,7.53,Yes,No,No,Yes,Yes,High,No,2,6,ML Engineer
+993,STU20260993,9.25,Yes,No,Yes,Yes,Yes,Medium,Yes,5,6,Data Scientist
+994,STU20260994,8.02,No,Yes,No,Yes,No,Medium,No,2,2,Software Engineer
+995,STU20260995,6.38,No,No,Yes,No,No,Low,No,2,6,Data Analyst
+996,STU20260996,8.26,Yes,Yes,No,No,No,Low,Yes,0,3,Software Engineer
+997,STU20260997,8.19,No,Yes,Yes,No,Yes,Low,No,3,6,Full Stack Developer
+998,STU20260998,8.4,No,Yes,Yes,Yes,No,Low,Yes,3,6,Software Engineer
+999,STU20260999,7.1,Yes,No,Yes,Yes,No,Medium,Yes,4,2,ML Engineer
+1000,STU20261000,9.19,Yes,No,Yes,No,Yes,Low,No,0,6,Frontend Developer
